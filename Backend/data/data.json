@@ -1,0 +1,3736 @@
+[
+  {
+    "exercise_number": "1",
+    "pageNumber": "3",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm (theo mẫu).",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Viết số",
+        "Hàng chục nghìn",
+        "Hàng nghìn",
+        "Hàng trăm",
+        "Hàng chục",
+        "Hàng đơn vị",
+        "Đọc số"
+      ],
+      "rows": [
+        [
+          "12 345",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Mười hai nghìn ba trăm bốn mươi lăm"
+        ],
+        [
+          "24 746",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "Sáu mươi nghìn bảy trăm mười sáu"
+        ],
+        [
+          "___",
+          "1",
+          "0",
+          "4",
+          "3",
+          "2",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 1. Ôn tập các số đến 100 000"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "3",
+    "type": "Input Question",
+    "title": "Viết số rồi đọc số, biết số đó gồm:",
+    "text1": "a. 5 chục nghìn, 3 nghìn, 3 chục và 2 đơn vị viết là ___",
+    "text2": "b. 4 chục nghìn, 5 trăm và 6 chục viết là ___",
+    "text3": "c. 9 nghìn, 7 trăm và 5 đơn vị viết là ___",
+    "text4": "d. 2 chục nghìn và 4 đơn vị viết là ___",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 1. Ôn tập các số đến 100 000"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "3",
+    "type": "Input Question",
+    "title": "Viết số còn thiếu.",
+    "text1": "a. 24 578 = ___ + 4 000 + 500 + ___ + 8",
+    "text2": "b. 36 129 = 30 000 + ___ + ___ + ___ + 9",
+    "text3": "c. 49 747 = ___ + ___ + ___ + ___ + ___",
+    "text4": "d. ___ = 10 000 + 7 000 + 400 + 80 + 6",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 1. Ôn tập các số đến 100 000"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "3",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "a. 30 126; 30 127, 30 128; ___; ___; 30 132.",
+    "text2": "b. 52 100; 52 200; ___; 52 400, ___; 52 700.",
+    "text3": "c. 75 125, 76 125, 77 125, 78 125; ___; ___; ___;",
+    "text4": "d. 10 000; ___; ___; 50 000; ___; ___; 90 000.",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 1. Ôn tập các số đến 100 000"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "3",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "a. Số bé nhất có 5 chữ số là ___",
+    "text2": "b. Số bé nhất có 5 chữ số khác nhau là ___",
+    "text3": "c. Số lớn nhất có 5 chữ số là ___",
+    "text4": "d. Số lớn nhất có 5 chữ số khác nhau là ___",
+    "text5": "e. Số liền trước số 47 890 là ___",
+    "text6": "g. Số liền sau số 76 199 là ___",
+    "text7": "h. Số lớn nhất có 5 chữ số và có chữ số hàng chục bằng 1 là ___",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 1. Ôn tập các số đến 100 000"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "3",
+    "type": "True False",
+    "title": "Đúng ghi Đ, sai ghi S vào ô trống",
+    "key": "Dân số phường A là 23 678 người, dân số phường B là 30 125 người, dân số phường C là 21 987 người.",
+    "text1": "a. Phường B có đông dân nhất.",
+    "text2": "b. Dân số phường A làm tròn đến hàng nghìn là 23 000 người.",
+    "text3": "c. Phường C đông dân hơn phường A.",
+    "text4": "d. Dân số phường B làm tròn đến hàng nghìn là 30 000 người.",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 1. Ôn tập các số đến 100 000"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "4",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Mai viết một số có 5 chữ số lên bảng. Biết số đó đọc xuôi hay đọc ngược đều giống nhau, chữ số hàng chục nghìn là số lớn nhất có 1 chữ số. Chữ số hàng trăm kém chữ số hàng chục nghìn 3 đơn vị và gấp đôi chữ số hàng chục. Tìm số Mai đã viết.",
+    "text1": "Bài giải",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 1. Ôn tập các số đến 100 000"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 5",
+    "type": "Input Question",
+    "title": "Tính nhẩm.",
+    "text1": "6 000 + 9 000 = ___",
+    "text2": "13 000 - 5 000 = ___",
+    "text3": "37 000 + 20 000 = ___",
+    "text4": "37 000 + 3 000 + 8 000 = ___",
+    "text5": "56 000 - 6 000 - 20 000 = ___",
+    "text6": "24 000 + 5 000 - 19 000 = ___",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 5",
+    "type": "columnar calculation",
+    "title": "Đặt tính rồi tính.",
+    "text1": "9 745 + 6 128",
+    "text2": "25 237 + 36 245",
+    "text3": "17 080 - 453",
+    "text4": "64 157 - 27 130",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 5",
+    "type": "Open Text",
+    "title": "Tính giá trị của biểu thức.",
+    "text1": "21 178 + (37 346 - 5 346)",
+    "text2": "27 000 + 7 230 + 7 670",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 5",
+    "type": "Open Text",
+    "title": "Trả lời câu hỏi sau:",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Vở",
+        "Bút mực",
+        "Bút chì",
+        "Tẩy"
+      ],
+      "rows": [
+        [
+          "11 500 đồng",
+          "22 500 đồng",
+          "7 000 đồng",
+          "5 000 đồng"
+        ]
+      ]
+    },
+    "text1": "Bình mua một quyển vở và một cục tẩy. Minh mua một bút mực và một bút chì.",
+    "text2": "Bình phải trả cho người bán hàng bao nhiêu tiền?",
+    "text3": "Minh phải trả cho người bán hàng bao nhiêu tiền?",
+    "text4": "Bạn nào phải trả nhiều tiền hơn và nhiều hơn bao nhiêu tiền?",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 6",
+    "type": "Matching",
+    "title": "Nối các phép tính có cùng kết quả với nhau.",
+    "text1": "Nối các cặp tương ứng:",
+    "text1.MultipleChoice": [
+      "80 000 : 2",
+      "42 000 : 7",
+      "10 000 × 2",
+      "60 000 : 3",
+      "5 000 × 8",
+      "2 000 × 3"
+    ],
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "Trang 6",
+    "type": "columnar calculation",
+    "title": "Đặt tính rồi tính.",
+    "text1": "2 403 x 8",
+    "text2": "14 226 x 3",
+    "text3": "32 520: 5",
+    "text4": "24 566: 3",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "Trang 6",
+    "type": "Open Text",
+    "title": "Tính giá trị của biểu thức.",
+    "text1": "9 000 × 2 : 3",
+    "text2": "30 000 : 6 : 5",
+    "text3": "7 000 x 3 x 4",
+    "text4": "11 208 x (28 : 4)",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "8",
+    "pageNumber": "Trang 6",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Hồng và Hà mua 5 gói kẹo, mỗi gói giá 8 000 đồng rồi chia đôi tiền mua kẹo. Hỏi mỗi bạn phải trả bao nhiêu tiền?",
+    "text1": "Giải thích vì sao chọn đáp án đúng cho bài toán trên",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "9",
+    "pageNumber": "Trang 7",
+    "type": "Multiple Choice",
+    "title": "Chọn câu trả lời đúng.",
+    "text1": "Tổng của 23 458 và 56 134 là:",
+    "text1.MultipleChoice": [
+      "79 592",
+      "78 592",
+      "79 692",
+      "89 592"
+    ],
+    "text2": "Hiệu của 53 134 và 10 906 là:",
+    "text2.MultipleChoice": [
+      "42 228",
+      "43 238",
+      "43 228",
+      "42 238"
+    ],
+    "text3": "Tích của 23 102 và 4 là:",
+    "text3.MultipleChoice": [
+      "91 408",
+      "82 408",
+      "92 428",
+      "92 408"
+    ],
+    "text4": "Số dư của phép chia 48 987 : 7 là:",
+    "text4.MultipleChoice": [
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "10",
+    "pageNumber": "Trang 7",
+    "type": "Open Text",
+    "title": "Tính giá trị của biểu thức.",
+    "text1": "(56 000 + 4 000) : 2",
+    "text2": "84 670 - 10 893 × 5",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "11",
+    "pageNumber": "Trang 7",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Ở một nhà máy, tháng thứ nhất sản xuất được 23 407 sản phẩm. Tháng thứ hai do cải tiến kĩ thuật và tăng nhân công, nhà máy sản xuất được gấp ba lần số sản phẩm của tháng thứ nhất. Hỏi sau 2 tháng, nhà máy sản xuất được tất cả bao nhiêu sản phẩm?",
+    "text1": "Giải thích vì sao chọn đáp án đúng cho bài toán trên",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 2. Ôn tập các phép tính trong phạm vi 100 000"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 8",
+    "type": "Input Question",
+    "title": "Quan sát hình rồi điền vào chỗ chấm.",
+    "imageAll": "Hình ảnh hai dãy bọ rùa với số lượng chấm khác nhau trên lưng.",
+    "text1": "Dãy 1 gồm các con bọ rùa có số chấm lần lượt là: ___",
+    "text2": "Dãy 2 gồm các con bọ rùa có số chấm lần lượt là: ___",
+    "text3": "Số chấm trên lưng các con bọ rùa ở dãy 1 là số lẻ. Số lẻ là các số có chữ số tận cùng là ___",
+    "text4": "Số chấm trên lưng các con bọ rùa ở dãy 2 là số chẵn. Số chẵn là các số có chữ số tận cùng là ___",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 3. Số chẵn, số lẻ"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 8",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Trong các số trên, số các số chẵn là ___, số các số lẻ là ___",
+    "imageAll": "Các số: 49, 9 354, 13, 147, 248, 27 850, 8 135, 896",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 3. Số chẵn, số lẻ"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 8",
+    "type": "Interactive Image",
+    "title": "Tô màu theo yêu cầu.",
+    "text1": "Tô màu cam vào ô chứa số chẵn nằm giữa 51 và 75.",
+    "text2": "Tô màu đỏ vào ô chứa số chẵn nằm giữa 3 445 và 3500.",
+    "text3": "Tô màu xanh lá cây vào ô chứa số lẻ nằm giữa 10 900 và 11 000.",
+    "text4": "Tô màu tím vào ô chứa số lẻ nằm giữa 145 và 200.",
+    "text5": "Tô màu xanh nước biển vào ô chứa số chẵn nằm giữa 24 590 và 25 000.",
+    "text6": "Tô màu hồng vào ô chứa số lẻ nằm giữa 24 056 và 24 333.",
+    "text7": "Tô màu xám vào ô chứa số chẵn nằm giữa 201 và 300.",
+    "text8": "Tô màu vàng vào ô chứa số lẻ nằm giữa 3 501 và 3 599.",
+    "imageAll": "Bảng các số: 24 602, 210, 60, 197, 24 111, 3 440, 10 999, 55, 10 902, 3456, 63, 3 581",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 3. Số chẵn, số lẻ"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 9",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Từ 10 đến 40 có ___ số chẵn.",
+    "text2": "Từ 15 đến 35 có ___ số lẻ.",
+    "text3": "Số lẻ bé nhất là: ___",
+    "text4": "Số chẵn lớn nhất có 1 chữ số là: ___",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 3. Số chẵn, số lẻ"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 9",
+    "type": "Multiple Choice",
+    "title": "Chọn phương án đúng.",
+    "text1": "Hai số chẵn liên tiếp hơn kém nhau bao nhiêu đơn vị?",
+    "text1.MultipleChoice": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "text2": "Hai số lẻ liên tiếp hơn kém nhau bao nhiêu đơn vị?",
+    "text2.MultipleChoice": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "text3": "Số chẵn liền trước của số 28 190 là:",
+    "text3.MultipleChoice": [
+      "28 192",
+      "28 180",
+      "28 188",
+      "28 200"
+    ],
+    "text4": "Bộ 3 số nào dưới đây là bộ 3 số lẻ liên tiếp?",
+    "text4.MultipleChoice": [
+      "11, 12, 13",
+      "135, 137, 141",
+      "246, 248, 250",
+      "109, 111, 113"
+    ],
+    "text5": "Từ 2 trong 3 chữ số 1; 2; 3, lập được bao nhiêu số lẻ?",
+    "text5.MultipleChoice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "text6": "Tổng của số chẵn lớn nhất có hai chữ số và số lẻ bé nhất có hai chữ số là:",
+    "text6.MultipleChoice": [
+      "99",
+      "100",
+      "109",
+      "119"
+    ],
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 3. Số chẵn, số lẻ"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "10",
+    "type": "Input Question",
+    "title": "Viết tiếp vào chỗ chấm",
+    "key": "Dựa vào số trứng gà đẻ được hàng ngày",
+    "imageAll": "Hình ảnh gà mái và ổ trứng",
+    "text1": "Coi như số trứng đàn gà đẻ được vào ngày thứ Ba là a, vậy số trứng đàn gà đẻ được trong 2 ngày sẽ là: 10 + ___ (quả trứng).",
+    "text2": "Nếu thứ Ba, đàn gà đẻ được 8 quả trứng thì a = 8. Vậy sau 2 ngày, đàn gà đẻ được 10+ a = 10 + ___ (quả trứng).",
+    "text3": "10 + a là một biểu thức chứa chữ. Nếu a = 12 thì 10 + a = 10 + ___ = 22, ta nói 22 là một giá trị của biểu thức 10 + a.",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "10",
+    "type": "Input Question",
+    "title": "Tính giá trị của biểu thức",
+    "text1": "1 236 x n với n = 3",
+    "text2": "(m-12) : 5 với m = 57",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "10",
+    "type": "Input Question",
+    "title": "Tính độ dài đường gấp khúc ABCD, biết:",
+    "imageAll": "Hình vẽ đường gấp khúc ABCD với các cạnh 5cm, 3cm và x cm",
+    "text1": "x = 3 cm",
+    "text2": "x = 4 cm",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "10",
+    "type": "Multiple Choice",
+    "title": "Chọn câu trả lời đúng",
+    "text1": "Giá trị của biểu thức (c + 12 000) : 5 với c = 8 000 là:",
+    "text1.MultipleChoice": [
+      "400",
+      "4 000",
+      "8 000",
+      "12 000"
+    ],
+    "text2": "Giá trị của biểu thức 1 600 x b : 5 với b = 2 là:",
+    "text2.MultipleChoice": [
+      "640",
+      "600",
+      "800",
+      "840"
+    ],
+    "text3": "Trong túi có 24 cái kẹo chanh và n cái kẹo cam. Hỏi trong túi có tất cả bao nhiêu cái kẹo?",
+    "text3.MultipleChoice": [
+      "24 + n",
+      "24 - n",
+      "24 x n",
+      "24: n"
+    ],
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "11",
+    "type": "Input Question",
+    "title": "Viết câu trả lời vào chỗ chấm",
+    "key": "Một hộp bút màu có giá 20 000 đồng và một chiếc bút chì có giá 5 000 đồng. Toàn mua a hộp bút màu và b chiếc bút chì. Số tiền Toàn phải trả tính theo công thức: 20 000 x a + 5 000 × b (đồng).",
+    "text1": {
+      "type": "table",
+      "headers": [
+        "Số hộp bút màu",
+        "Số bút chì",
+        "Số tiền Toàn phải trả (đồng)"
+      ],
+      "rows": [
+        [
+          "1",
+          "2",
+          "20 000 ×1+5000×2=30.000"
+        ],
+        [
+          "2",
+          "2",
+          "___"
+        ],
+        [
+          "2",
+          "3",
+          "___"
+        ],
+        [
+          "3",
+          "5",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "11",
+    "type": "Input Question",
+    "title": "Tính giá trị của biểu thức",
+    "text1": "12 x p : q với p = 3, q = 4",
+    "text2": "(k + 134): g với k = 56, g = 2",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "11",
+    "type": "Matching",
+    "title": "Nối các biểu thức có giá trị bằng nhau, biết x = 5 và y = 10",
+    "text1.MultipleChoice": [
+      "x+y",
+      "y-x+1",
+      "(y +20): x",
+      "y: x + 13"
+    ],
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "8",
+    "pageNumber": "11",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Mình năm nay a tuổi. Dũng nhiều hơn Minh 4 tuổi. An ít hơn Minh 2 tuổi. Khánh có số tuổi gấp 3 lần số tuổi của Minh. Linh có số tuổi bằng một nửa số tuổi của Minh.",
+    "text1": "Viết biểu thức tính số tuổi của Dũng, An, Khánh và Linh.",
+    "text2": "Tính tuổi các bạn ở câu a biết Minh năm nay 4 tuổi.",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "9",
+    "pageNumber": "12",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Một công nhân được trả lương tỉnh theo công thức: c x h + t (đồng), trong đó c là tiền công được trả cho một sản phẩm (đơn vị: đồng), h là số sản phẩm làm được, t là tiền thưởng nếu sản phẩm làm đẹp (đơn vị: đồng).",
+    "text1": "Tính số tiền người công nhân nhận được, biết:",
+    "text2": "c = 10 000, h=5, t=20 000;",
+    "text3": "c= 8 000, h=7, t = 30 000.",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "10",
+    "pageNumber": "12",
+    "type": "Multiple Choice",
+    "title": "Tính giá trị biểu thức rồi tìm biểu thức có giá trị lớn nhất.",
+    "text1": "(130 + x): y với x = 20, y = 5.",
+    "text1.MultipleChoice": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "text2": "(g+h+k): 3 với g = 10, h = 20, k = 30.",
+    "text2.MultipleChoice": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "text3": "(235-a): b với a = 25, b = 7.",
+    "text3.MultipleChoice": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "text4": "800: (m+n) với m = 12, n = 8.",
+    "text4.MultipleChoice": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "13",
+    "type": "Open Text",
+    "title": "Đố",
+    "key": "Một quyển sách nấu ăn chỉ ra thời gian tính theo phút để làm chín thịt của các thiết bị như sau:\nLò nướng điện: thời gian = (65 x cân nặng tính theo ki-lô-gam) +36 (phút).\nLò vi sóng: thời gian = (27 × cân nặng tính theo ki-lô-gam) + 15 (phút).",
+    "text1": "Nếu cần nướng 2 kg thịt thì lò nào nướng nhanh hơn và nhanh hơn bao nhiêu phút?",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 4. Biểu thức chứa chữ"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "14",
+    "type": "Open Text",
+    "title": "Giải bài toán có ba bước tính",
+    "text1": "Viết vào chỗ chấm để hoàn thành bài giải.",
+    "key": "Lan làm ba loại bánh quy bơ, trà xanh, sô-cô-la, trong đó có 20 chiếc bánh quy bơ. Số bánh quy trà xanh nhiều gấp đôi bánh quy bơ nhưng ít hơn số bánh quy sô-cô-la 5 chiếc. Hỏi Lan đã làm bao nhiêu chiếc bánh quy các loại?",
+    "imageAll": "Hình vẽ sơ đồ tóm tắt số bánh của Lan",
+    "text2": "Số bánh quy trà xanh là: ___ (chiếc)",
+    "text3": "Số bánh quy sô-cô-la là: ___ (chiếc)",
+    "text4": "Số bánh quy Lan đã làm là: ___ (chiếc)",
+    "text5": "Đáp số: ___ chiếc",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 5. Giải bài toán có ba bước tinh"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "14",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Mẹ mua 10 quả trứng gà, mỗi quả có giá 5 000 đồng và mua 5 quả trứng vịt, mỗi quả có giá 4 000 đồng. Hỏi mẹ phải trả cô bán hàng tất cả bao nhiêu tiền?",
+    "text1": "Bài giải",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 5. Giải bài toán có ba bước tinh"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "14",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Có 5 túi kẹo cam, mỗi túi có 30 chiếc và 3 túi kẹo chanh, mỗi túi có 60 chiếc. Hỏi loại kẹo nào có nhiều hơn và nhiều hơn bao nhiêu chiếc?",
+    "text1": "Bài giải",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 5. Giải bài toán có ba bước tinh"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "14",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Ngày thứ nhất một nhà máy sản xuất được 1 120 sản phẩm. Ngày thứ hai nhà máy đó sản xuất được nhiều hơn ngày thứ nhất 100 sản phẩm. Ngày thứ ba, sản xuất ít hơn ngày thứ hai 45 sản phẩm. Hỏi cả ba ngày nhà máy sản xuất được bao nhiêu sản phẩm?",
+    "text1": "Bài giải",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 5. Giải bài toán có ba bước tinh"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "15",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Hoà gấp được 24 con hạc giấy, Hồng gấp được số hạc giấy bằng một nửa số hạc giấy Hoà đã gấp. Hiền gấp được số hạc giấy nhiều hơn số hạc giấy Hồng đã gấp 10 con. Hỏi cả ba bạn gấp được bao nhiêu con hạc giấy?",
+    "text1": "Bài giải",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 5. Giải bài toán có ba bước tinh"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "15",
+    "type": "Open Text",
+    "title": "Đặt đề toán theo tóm tắt sau rồi giải.",
+    "imageAll": "Hình vẽ sơ đồ tóm tắt số bánh",
+    "text1": "Bánh xanh: 50 chiếc",
+    "text2": "Bánh đỏ: 7 chiếc",
+    "text3": "Bánh vàng: ? chiếc",
+    "text4": "Đề bài",
+    "text5": "Bài giải",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 5. Giải bài toán có ba bước tinh"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "16",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Giang, Thành, Sơn và An là bốn anh em họ. Tuổi của Giang bằng một nửa tuổi của Sơn. Sơn nhiều hơn An 3 tuổi. Tuổi An cộng với tuổi Sơn thì được 17 tuổi. Thành 8 tuổi. Hỏi bạn nào ít tuổi nhất?",
+    "text1": "Bài giải",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 5. Giải bài toán có ba bước tinh"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 17",
+    "type": "Multiple Choice",
+    "title": "Chọn phương án đúng",
+    "text1": "Trong các số sau, số nào là số chẵn?",
+    "text1.MultipleChoice": [
+      "10 245",
+      "80 667",
+      "21 703",
+      "13 572"
+    ],
+    "text2": "Trong các số sau, số nào là số lẻ?",
+    "text2.MultipleChoice": [
+      "30 446",
+      "41 128",
+      "13 419",
+      "29 162"
+    ],
+    "text3": "Số nào bé nhất trong các số dưới đây?",
+    "text3.MultipleChoice": [
+      "38 192",
+      "38 180",
+      "38 188",
+      "38 200"
+    ],
+    "text4": "Làm tròn số 54 149 đến hàng trăm được số:",
+    "text4.MultipleChoice": [
+      "54 100",
+      "54 200",
+      "54 150",
+      "54 000"
+    ],
+    "text5": "Làm tròn số 48 512 đến hàng chục nghìn được số:",
+    "text5.MultipleChoice": [
+      "50 000",
+      "40 000",
+      "48 000",
+      "49 000"
+    ],
+    "text6": "Số nào trong các số dưới đây có chữ số 5 ở hàng nghìn?",
+    "text6.MultipleChoice": [
+      "12 501",
+      "45 310",
+      "58 627",
+      "99 450"
+    ],
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 17",
+    "type": "columnar calculation",
+    "title": "Đặt tính rồi tính",
+    "text1": "12 384 + 6 808",
+    "text2": "47 192-37 976",
+    "text3": "17 191 × 5",
+    "text4": "71 032:4",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 17",
+    "type": "Open Text",
+    "title": "Tính giá trị của biểu thức",
+    "text1": "52 154 + 10 287 + 4 846",
+    "text2": "27 976 + 3 000 × 5",
+    "text3": "23 197 + 9 862 - 7 197",
+    "text4": "37 814:2-5907",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 17",
+    "type": "Open Text",
+    "title": "Giải bài toán sau",
+    "text1": "Trong một sự kiện âm nhạc, ban tổ chức bán được 15 943 vé, trong đó loại vé cho người lớn là 9 823 vé, còn lại là vé cho trẻ em. Hỏi loại vé nào bán nhiều hơn và nhiều hơn bao nhiêu vé?",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 17",
+    "type": "Open Text",
+    "title": "Tính giá trị của biểu thức",
+    "text1": "(x - 120) : y với x = 200, y = 10.",
+    "text2": "c − a × b với a = 400, b = 6, c = 37 345.",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "Trang 17",
+    "type": "Open Text",
+    "title": "Giải bài toán sau",
+    "text1": "Một quyển vở có giá 7 500 đồng, quyển sách có giá gấp 3 lần quyển vở. Hằng mua 2 quyển vở và 1 quyển sách. Hỏi Hằng phải trả bao nhiêu tiền?",
+    "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 19",
+    "type": "Input Question",
+    "title": "Đo góc, đơn vị đo góc. Quan sát thước đo góc rồi điền số đo của mỗi góc (theo mẫu).",
+    "imageAll": "Hình ảnh các góc với các cạnh và thước đo góc.",
+    "text1": "Góc đỉnh O; cạnh OA, OB có số đo 50°",
+    "text2": "Góc đỉnh ___ ; cạnh ___ có số đo ___",
+    "text3": "Góc đỉnh ___ ; cạnh ___ có số đo ___",
+    "text4": "Góc đỉnh ___ ; cạnh ___ có số đo ___",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 1. Đo góc, đơn vị đo góc"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 19",
+    "type": "Input Question",
+    "title": "Quan sát tranh rồi điền số đo góc vào chỗ chấm.",
+    "imageAll": "Hình ảnh 3 con đường cắt nhau tạo thành các góc.",
+    "text1": "Trên phố hoa đi bộ, 3 con đường cắt nhau theo các góc như hình vẽ trên. Đường Hoa Hướng Dương và đường Hoa Hồng cắt nhau theo góc đỉnh A; cạnh AB, AC, số đo góc bằng ___",
+    "text2": "Đường Hoa Hướng Dương và đường Hoa Cúc cắt nhau theo góc đỉnh C; cạnh CA, CB, số đo góc bằng ___",
+    "text3": "Đường Hoa Hồng và đường Hoa Cúc cắt nhau theo góc đỉnh B; cạnh BA, BC, số đo góc bằng ___",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 1. Đo góc, đơn vị đo góc"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 19",
+    "type": "Input Question",
+    "title": "Viết tiếp vào chỗ chấm (theo mẫu).",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Góc",
+        "Số đo góc"
+      ],
+      "rows": [
+        [
+          "Góc đỉnh A; cạnh AB, AC",
+          "120°"
+        ],
+        [
+          "___",
+          "90°"
+        ],
+        [
+          "Góc đỉnh D; cạnh DB, DC",
+          "___"
+        ],
+        [
+          "___",
+          "60°"
+        ]
+      ]
+    },
+    "imageAll": "Hình ảnh một tứ giác ABCD với các góc và cạnh.",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 1. Đo góc, đơn vị đo góc"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 19",
+    "type": "Input Question",
+    "title": "Dùng thước đo góc để đo các góc trong tam giác dưới đây rồi viết số đo vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Góc",
+        "Số đo góc"
+      ],
+      "rows": [
+        [
+          "Góc đỉnh M; cạnh MN, MP",
+          "___"
+        ],
+        [
+          "Góc đỉnh N; cạnh NM, NP",
+          "___"
+        ],
+        [
+          "Góc đỉnh P; cạnh PN, PM",
+          "___"
+        ]
+      ]
+    },
+    "imageAll": "Hình ảnh tam giác MNP.",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 1. Đo góc, đơn vị đo góc"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 19",
+    "type": "Input Question",
+    "title": "Viết tên góc tương ứng với số đo (theo mẫu).",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Góc",
+        "Số đo góc"
+      ],
+      "rows": [
+        [
+          "Góc đỉnh A; cạnh AE, AD",
+          "60°"
+        ],
+        [
+          "___",
+          "120°"
+        ],
+        [
+          "___",
+          "60°"
+        ]
+      ]
+    },
+    "imageAll": "Hình ảnh các góc và thước đo góc.",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 1. Đo góc, đơn vị đo góc"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 21",
+    "type": "Input Question",
+    "title": "Viết một trong các từ “góc nhọn”, “góc tù”, “góc bẹt” thích hợp vào chỗ chấm.",
+    "text1": "Góc đỉnh A; cạnh AB, AC là ___ bé hơn góc vuông.",
+    "text2": "Góc đỉnh A; canh AD, AE là ___ lớn hơn góc vuông.",
+    "text3": "Góc đình A; cạnh AM, AN là ___ bằng hai góc vuông.",
+    "imageAll": "Hình ảnh 3 góc, góc nhọn, góc tù và góc bẹt được tạo bởi 2 cạnh và đỉnh A",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 2. Góc nhọn, góc tù, góc bẹt"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 21",
+    "type": "Input Question",
+    "title": "Viết tên các góc trong hình vào",
+    "imageAll": "Hình ảnh các đồ vật thường ngày có chứa các góc, ví dụ góc đường giao nhau, quạt, bàn bóng bàn, cửa sổ, pizza, cầu thang",
+    "text1": "Viết tên các góc tương ứng với mỗi hình",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 2. Góc nhọn, góc tù, góc bẹt"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 21",
+    "type": "Input Question",
+    "title": "Viết tên góc tạo bởi kim giờ và kim phút vào ô trống.",
+    "imageAll": "Hình ảnh 4 đồng hồ với các kim giờ và kim phút khác nhau",
+    "text1": "Viết tên các góc tương ứng với mỗi đồng hồ",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 2. Góc nhọn, góc tù, góc bẹt"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 22",
+    "type": "Input Question",
+    "title": "Phân loại các góc dưới đây và viết tên vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Góc vuông",
+        "Góc nhọn",
+        "Góc tù",
+        "Góc bẹt"
+      ],
+      "rows": [
+        [
+          "Góc đỉnh P; cạnh PM, PN.",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "imageAll": "Hình ảnh các góc khác nhau",
+    "text1": "Phân loại và viết tên các góc vào bảng",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 2. Góc nhọn, góc tù, góc bẹt"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 22",
+    "type": "Input Question",
+    "title": "Viết tên các góc nhọn, góc tù, góc bẹt trong hình dưới đây.",
+    "imageAll": "Hình ảnh một hình có chứa các góc nhọn, tù, bẹt",
+    "text1": "Viết tên các góc tương ứng",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 2. Góc nhọn, góc tù, góc bẹt"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "Trang 22",
+    "type": "Interactive Image",
+    "title": "Vẽ tam giác biết:",
+    "imageAll": "Hai khung hình chữ nhật, một bên ghi 'Tam giác có 3 góc nhọn', một bên ghi 'Tam giác có 1 góc tù'",
+    "text1": "Vẽ tam giác có 3 góc nhọn",
+    "text2": "Vẽ tam giác có 1 góc tù",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 2. Góc nhọn, góc tù, góc bẹt"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "Trang 23",
+    "type": "Interactive Image",
+    "title": "Vẽ kim giờ, kim phút để tạo thành góc nhọn, góc vuông, góc tù, góc bẹt. Sử dụng thước đo góc để đo góc vừa vẽ rồi ghi lại số đo. Cho biết đồng hồ chỉ mấy giờ?",
+    "imageAll": "Hình ảnh 4 đồng hồ trống, lần lượt có tiêu đề Góc vuông, Góc nhọn, Góc tù, Góc bẹt",
+    "text1": "Vẽ kim giờ, kim phút để tạo thành góc vuông",
+    "text2": "Vẽ kim giờ, kim phút để tạo thành góc nhọn",
+    "text3": "Vẽ kim giờ, kim phút để tạo thành góc tù",
+    "text4": "Vẽ kim giờ, kim phút để tạo thành góc bẹt",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 2. Góc nhọn, góc tù, góc bẹt"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "24",
+    "type": "Input Question",
+    "title": "Đo góc rồi viết số đo, loại góc của mỗi góc sau (theo mẫu).",
+    "imageAll": "Hình ảnh 4 góc a, b, c, d",
+    "text1": "a. Góc đỉnh O; cạnh OA, OB có số đo 90°; góc vuông.",
+    "text2": "b. ___",
+    "text3": "c. ___",
+    "text4": "d. ___",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 3. Luyện tập chung"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "24",
+    "type": "Input Question",
+    "title": "Viết tên các góc trong hình sau, dùng thước đo góc để tìm số đo của các góc đã viết.",
+    "imageAll": "Hình ảnh góc MQP",
+    "text1": "___",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 3. Luyện tập chung"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "24",
+    "type": "Interactive Image",
+    "title": "Vẽ đường thẳng từ O đến dấu chấm tròn thích hợp để tạo thành góc có số đo cho trước rồi đặt tên góc.",
+    "imageAll": "Hình ảnh các dấu chấm tròn để vẽ góc 60 độ và 120 độ",
+    "text1": "Góc có số đo 60°",
+    "text2": "Tên góc: ___",
+    "text3": "Góc có số đo 120°",
+    "text4": "Tên góc: ___",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 3. Luyện tập chung"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "24",
+    "type": "Interactive Image",
+    "title": "Vẽ tứ giác biết:",
+    "text1": "Tứ giác có 2 góc vuông, 1 góc nhọn, 1 góc tù",
+    "text2": "Tứ giác có 2 góc tù, 2 góc nhọn",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 3. Luyện tập chung"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "25",
+    "type": "Input Question",
+    "title": "Đếm số góc vuông, góc nhọn, góc tù trong hình bên rồi điền vào chỗ chấm.",
+    "imageAll": "Hình ảnh ngôi nhà được ghép từ các hình hình học",
+    "text1": "Trong hình bên có:",
+    "text2": "Có ___ góc vuông;",
+    "text3": "Có ___ góc nhọn;",
+    "text4": "Có ___ góc tù.",
+    "chapter": "Chủ đề 2. Góc và đơn vị đo góc",
+    "lesson": "Bài 3. Luyện tập chung"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 26",
+    "type": "Input Question",
+    "title": "Viết số, phép tính hoặc chữ vào chỗ chấm.",
+    "imageAll": "Hình ảnh bảng các hàng trăm nghìn, chục nghìn, nghìn, trăm, chục, đơn vị và số 236 356",
+    "text1": "Số gồm: 2 trăm nghìn, 3 chục nghìn, ___ nghìn, ___ trăm, ___ chục và ___ đơn vị.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 26",
+    "type": "Input Question",
+    "title": "Viết số, phép tính hoặc chữ vào chỗ chấm.",
+    "text1": "Viết số thành tổng theo các hàng: 236 356 = 200 000 + 30 000 + ___ + ___ + ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 26",
+    "type": "Input Question",
+    "title": "Viết số, phép tính hoặc chữ vào chỗ chấm.",
+    "imageAll": "Hình ảnh bảng các hàng trăm nghìn, chục nghìn, nghìn, trăm, chục, đơn vị",
+    "text1": "Số gồm: ___ trăm nghìn, ___ chục nghìn, ___ nghìn, ___ trăm, ___ chục và ___ đơn vị",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 26",
+    "type": "Input Question",
+    "title": "Viết số, phép tính hoặc chữ vào chỗ chấm.",
+    "text1": "Viết số thành tổng theo các hàng: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 27",
+    "type": "Input Question",
+    "title": "Viết số, phép tính hoặc chữ vào chỗ chấm.",
+    "text1": "Số liền sau của 999 999 là: ___",
+    "text2": "1 triệu = ___ trăm nghìn.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 27",
+    "type": "Input Question",
+    "title": "Hoàn thành bảng sau.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Hàng trăm nghìn",
+        "Hàng chục nghìn",
+        "Hàng nghìn",
+        "Hàng trăm",
+        "Hàng chục",
+        "Hàng đơn vị",
+        "Viết số",
+        "Đọc số"
+      ],
+      "rows": [
+        [
+          "5",
+          "2",
+          "6",
+          "0",
+          "3",
+          "8",
+          "___",
+          "___"
+        ],
+        [
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "704 009",
+          "hai trăm bốn mươi lăm nghìn không trăm sáu mươi tư"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 27",
+    "type": "Input Question",
+    "title": "Viết vào chỗ chấm.",
+    "text1": "Các số tròn trăm nghìn từ 100 000 đến 1 000 000 là: ___",
+    "text2": "Số gồm 9 trăm nghìn, 5 trăm và 2 đơn vị viết là: ___",
+    "text3": "Số gồm 3 trăm nghìn, 6 nghìn và 8 chục viết là: ___",
+    "text4": "Viết số thành tổng theo các hàng:",
+    "text5": "638 270 = ___",
+    "text6": "100 503 = ___",
+    "text7": "804 061 = ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 28",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Có tất cả bao nhiêu tiền?",
+    "imageAll": "Hình ảnh các tờ tiền có mệnh giá khác nhau.",
+    "text2": "___ đồng.",
+    "text3": "___ đồng.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 28",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "imageAll": "Hình ảnh trục số",
+    "text1": "___",
+    "text2": "___",
+    "text3": "___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "Trang 29",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Số liền trước",
+        "Số đã cho",
+        "Số liền sau"
+      ],
+      "rows": [
+        [
+          "___",
+          "281 730",
+          "___"
+        ],
+        [
+          "501 800",
+          "___",
+          "___"
+        ],
+        [
+          "___",
+          "___",
+          "1 000 000"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "Trang 29",
+    "type": "Input Question",
+    "title": "Thực hành lập số rồi viết số vào chỗ chấm.",
+    "key": "Dùng các thẻ số 5 0 0 7 6 4 để lập số có 6 chữ số.",
+    "text1": "3 số lẻ lập được là: ___",
+    "text2": "3 số chẵn lập được là: ___",
+    "text3": "3 số tròn trăm lập được là: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 1. Số có sâu chữ số. Số 1 000 000"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 30",
+    "type": "Input Question",
+    "title": "Viết số hoặc chữ vào chỗ chấm.",
+    "key": "Xét số 310 562:",
+    "text1": {
+      "type": "table",
+      "headers": [
+        "Lớp nghìn",
+        "Lớp đơn vị"
+      ],
+      "rows": [
+        [
+          "Hàng trăm nghìn",
+          "Hàng chục nghìn",
+          "Hàng nghìn",
+          "Hàng trăm",
+          "Hàng chục",
+          "Hàng đơn vị"
+        ],
+        [
+          "100 000",
+          "___",
+          "___",
+          "100",
+          "10",
+          "___"
+        ],
+        [
+          "100 000",
+          "10 000",
+          "___",
+          "100",
+          "10",
+          "1"
+        ],
+        [
+          "100 000",
+          "___",
+          "___",
+          "100",
+          "10",
+          "1"
+        ],
+        [
+          "3",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___"
+        ]
+      ]
+    },
+    "text2": "Các chữ số 2, 6, 5 thuộc lớp ___",
+    "text3": "Hàng đơn vị, hàng chục, hàng trăm tạo thành lớp ___",
+    "text4": "Các chữ số 0, 1, 3 thuộc lớp ___",
+    "text5": "Hàng nghìn, hàng chục nghìn, hàng trăm nghìn tạo thành lớp ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 2. Lớp đơn vị. Lớp nghìn"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 30",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": {
+      "type": "table",
+      "headers": [
+        "Lớp nghìn",
+        "Lớp đơn vị"
+      ],
+      "rows": [
+        [
+          "Viết số",
+          "Hàng trăm nghìn",
+          "Hàng chục nghìn",
+          "Hàng nghìn",
+          "Hàng trăm",
+          "Hàng chục",
+          "Hàng đơn vị"
+        ],
+        [
+          "816 302",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___"
+        ],
+        [
+          "___",
+          "5",
+          "0",
+          "3",
+          "9",
+          "2",
+          "8"
+        ],
+        [
+          "___",
+          "___",
+          "4",
+          "6",
+          "0",
+          "0",
+          "7"
+        ],
+        [
+          "9 105",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 2. Lớp đơn vị. Lớp nghìn"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 30",
+    "type": "True False",
+    "title": "Đúng ghi Đ, sai ghi S vào",
+    "text1": "Trong số 637 085, chữ số 8 thuộc hàng chục, lớp đơn vị.",
+    "text2": "Trong số 248 700, chữ số 4 thuộc hàng chục, lớp nghìn.",
+    "text3": "Trong số 736 204, giá trị của chữ số 6 là 6 000.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 2. Lớp đơn vị. Lớp nghìn"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 30",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Số tròn nghìn có 6 chữ số với các chữ số thuộc lớp nghìn đều bằng 5 là ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 2. Lớp đơn vị. Lớp nghìn"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "31",
+    "type": "Input Question",
+    "title": "Viết số hoặc chữ vào chỗ chấm.",
+    "imageAll": "Hình ảnh ti vi và người lớn trẻ em",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Số",
+        "Lớp triệu",
+        "Lớp nghìn",
+        "Lớp đơn vị"
+      ],
+      "rows": [
+        [
+          "14 000 000",
+          "Hàng trăm triệu",
+          "Hàng chục triệu",
+          "Hàng triệu",
+          "Hàng trăm nghìn",
+          "Hàng chục nghìn",
+          "Hàng nghìn",
+          "Hàng trăm",
+          "Hàng chục",
+          "Hàng đơn vị"
+        ]
+      ]
+    },
+    "text1": "Viết số: 14 000 000",
+    "text2": "Đọc số:",
+    "text3": "Viết số thành tổng theo các hàng: 14 000 000 = ___ + ___ + ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 3. Lớp triệu. Luyện tập"
+  },
+  {
+    "exercise_number": "b",
+    "pageNumber": "31",
+    "type": "Input Question",
+    "text1": "1 triệu = 10 trăm nghìn, viết số là: 1 000 000.",
+    "text2": "1 chục triệu = ___ triệu, viết số là: ___",
+    "text3": "1 trăm triệu = ___ chục triệu, viết số là: ___",
+    "text4": "Hàng triệu, hàng chục triệu, hàng trăm triệu tạo thành lớp ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 3. Lớp triệu. Luyện tập"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "31",
+    "type": "Input Question",
+    "title": "Viết rồi đọc số.",
+    "text1": "Các số tròn triệu từ 1 000 000 đến 9 000 000:",
+    "text2": "Các số tròn chục triệu từ 10 000 000 đến 90 000 000:",
+    "text3": "Các số tròn trăm triệu từ 100 000 000 đến 900 000 000:",
+    "text4": "Các số tròn chục triệu từ 520 000 000 đến 600 000 000:",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 3. Lớp triệu. Luyện tập"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "31",
+    "type": "Input Question",
+    "title": "Viết tiếp vào chỗ chấm.",
+    "text1": "Trong số 368 000 000, chữ số 8 thuộc hàng ___, thuộc lớp ___",
+    "text2": "Trong số 852 000 000, chữ số 8 thuộc hàng ___, thuộc lớp ___",
+    "text3": "Trong số 914 000 000, chữ số 1 thuộc hàng ___, thuộc lớp ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 3. Lớp triệu. Luyện tập"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "31",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Có tất cả bao nhiêu tiền?",
+    "imageAll": "Hình ảnh các tờ tiền 500000, 200000, 100000 đồng",
+    "text2": "___ đồng.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 3. Lớp triệu. Luyện tập"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "32",
+    "type": "Input Question",
+    "title": "Viết chữ số vào chỗ chấm.",
+    "text1": "Chữ số hàng chục nghìn của số 150 428 là: ___",
+    "text2": "Chữ số hàng triệu của số 203 000 000 là: ___",
+    "text3": "Lớp đơn vị của số 623 805 gồm các chữ số: ___",
+    "text4": "Lớp nghìn của số 274 916 gồm các chữ số: ___",
+    "text5": "Lớp triệu của số 739 000 000 gồm các chữ số: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 3. Lớp triệu. Luyện tập"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "32",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Dân số nước Nga năm 2022 là khoảng một trăm bốn mươi sáu triệu người. Vậy số dân của nước Nga năm 2022 là khoảng: ___ người.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 3. Lớp triệu. Luyện tập"
+  },
+  {
+    "exercise_number": "Thử sức",
+    "pageNumber": "32",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Lập một số lẻ có sáu chữ số thoả mãn các điều kiện sau: Lớp nghìn gồm các chữ số 0, 0, 6; Lớp đơn vị gồm các chữ số 5, 2, 2.",
+    "text2": "Số lập được là: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 3. Lớp triệu. Luyện tập"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "33",
+    "type": "Input Question",
+    "title": "Viết số hoặc chữ vào chỗ chấm.",
+    "imageAll": "Hình ảnh tàu chở dầu lớp Ti và người đàn ông đang xem tivi",
+    "text1": "Xét số 503 409 900:\nLớp triệu: Hàng trăm triệu ___ , Hàng chục triệu___ , Hàng triệu ___.\nLớp nghìn: Hàng trăm nghìn ___, Hàng chục nghìn ___, Hàng nghìn ___.\nLớp đơn vị: Hàng trăm ___, Hàng chục ___, Hàng đơn vị ___.\nĐọc số:",
+    "text2": "Số 503 409 900 gồm: ___ trăm triệu, ___ chục triệu, ___ triệu, ___ trăm nghìn, ___ chục nghìn, ___ nghìn, ___ trăm, ___ chục và ___ đơn vị.",
+    "text3": "Viết số thành tổng theo các hàng:\n503 409 900 = ___ + ___ + ___ + ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "pageNumber": "33",
+    "type": "Input Question",
+    "text1": "Số liền sau của số 999 999 999 là ___ , đọc là ___",
+    "text2": "1 tỉ = ___ triệu",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "33",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Viết số",
+        "Lớp triệu: Hàng trăm triệu",
+        "Lớp triệu: Hàng chục triệu",
+        "Lớp triệu: Hàng triệu",
+        "Lớp nghìn: Hàng trăm nghìn",
+        "Lớp nghìn: Hàng chục nghìn",
+        "Lớp nghìn: Hàng nghìn",
+        "Lớp đơn vị: Hàng trăm",
+        "Lớp đơn vị: Hàng chục",
+        "Lớp đơn vị: Hàng đơn vị"
+      ],
+      "rows": [
+        [
+          "263 607 058",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___"
+        ],
+        [
+          "42 035 190",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "34",
+    "type": "True False",
+    "title": "Đúng ghi Đ, sai ghi S vào ô trống",
+    "text1": "Số 971 032 568 có:",
+    "text2": "a. Chữ số 7 ở hàng chục triệu.",
+    "text3": "b. Chữ số 5 ở hàng nghìn.",
+    "text4": "c. Chữ số 2 thuộc lớp đơn vị.",
+    "text5": "d. Các chữ số 9, 7, 1 thuộc lớp triệu.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "34",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "a. Viết số thành tổng theo các hàng.",
+    "text2": "3 205 006 = ___ + ___ + ___ + ___",
+    "text3": "802 450 300 = ___ + ___ + ___ + ___",
+    "text4": "b. 60 000 000 + 1 000 000 + 700 000 + 200 =",
+    "text5": "200 000 000 + 4 000 000 + 90 + 4 =",
+    "text6": "c. Số gồm 7 trăm triệu, 1 chục triệu, 9 trăm nghìn viết là ___",
+    "text7": "Số gồm 5 chục triệu, 2 triệu, 4 chục nghìn, 3 trăm viết là ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "34",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Số",
+        "375 021",
+        "12079 400",
+        "208 000 700"
+      ],
+      "rows": [
+        [
+          "Giá trị của chữ số 2",
+          "___",
+          "___",
+          "___"
+        ],
+        [
+          "Giá trị của chữ số 7",
+          "___",
+          "___",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "35",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "a. 75 000 199; 75 000 200; 75 000 201; ___",
+    "text2": "b. 27 000 000; 28 000 000; ___ ; ___ ; 31 000 000.",
+    "text3": "c. 380 000 000; 390 000 000; ___ ; 410 000 000;",
+    "text4": "d. 600 000 000; 700 000 000; 800 000 000; ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "exercise_number": "8",
+    "pageNumber": "35",
+    "type": "Input Question",
+    "title": "Viết số hoặc chữ vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Quốc gia",
+        "Số dân (người): Viết số",
+        "Số dân (người): Đọc số"
+      ],
+      "rows": [
+        [
+          "Lào (có hình ảnh cờ)",
+          "___",
+          "bảy triệu năm trăm ba mươi tám nghìn sáu trăm sáu mươi hai"
+        ],
+        [
+          "Cam-pu-chia (có hình ảnh cờ)",
+          "___",
+          "mười bảy triệu hai trăm chín mươi tư nghìn hai trăm ba mươi bảy"
+        ],
+        [
+          "Việt Nam (có hình ảnh cờ)",
+          "99 385 274",
+          "___"
+        ],
+        [
+          "Phi-líp-pin (có hình ảnh cờ)",
+          "113 351 249",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "35",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Số liền trước",
+        "Số đã cho",
+        "Số liền sau"
+      ],
+      "rows": [
+        [
+          "___",
+          "1 000 000",
+          "___"
+        ],
+        [
+          "8 013 600",
+          "___",
+          "___"
+        ],
+        [
+          "___",
+          "999 999 999",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "exercise_number": "9",
+    "pageNumber": "36",
+    "type": "Input Question",
+    "title": "Giải ô chữ dưới đây (theo mẫu).",
+    "key": {
+      "type": "table",
+      "headers": [
+        "725 008 000",
+        "539 000 000",
+        "503 090 000",
+        "100 000 000",
+        "24 539 600"
+      ],
+      "rows": [
+        [
+          "H",
+          "___",
+          "___",
+          "___",
+          "___"
+        ]
+      ]
+    },
+    "text1": "H. Bảy trăm hai mươi lăm triệu không trăm linh tám nghìn",
+    "text2": "N. 500 000 000 + 3 000 000 + 90 000",
+    "text3": "A. Số có các chữ số 5, 3, 9 ở lớp triệu",
+    "text4": "I. 20 000 000 + 4 000 000 + 500 000 + 30 000 + 9 000 + 600",
+    "text5": "O. Số liền sau của 99 999 999",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "exercise_number": "10",
+    "pageNumber": "36",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "imageAll": "Hình ảnh các thẻ số 0 0 0 2 2 5 5 7",
+    "text1": "Nam dùng các thẻ số 0 0 0 2 2 5 5 7 để lập một số lẻ có 8 chữ số. Biết rằng lớp triệu có hai chữ số giống nhau, lớp đơn vị không chứa các chữ số 0 và 5.",
+    "text2": "Số mà Nam đã lập được là: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 4. Các số trong phạm vi lớp triệu"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 37",
+    "type": "Input Question",
+    "title": "Viết tiếp vào chỗ chấm.",
+    "imageAll": "Hình ảnh nhân viên bán hàng và khách hàng trong cửa hàng ô tô",
+    "text1": "Làm tròn số 1 490 300 đến hàng trăm nghìn ta được 1 500 000.",
+    "text2": "Khi làm tròn số đến hàng trăm nghìn, ta so sánh chữ số hàng ___ với 5:",
+    "text3": "+ Nếu chữ số đó ___ hơn 5 thì làm tròn xuống;",
+    "text4": "+ Nếu chữ số đó ___ hơn hoặc ___ 5 thì làm tròn lên.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 5. Làm tròn số đến hàng trăm nghin"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 37",
+    "type": "Input Question",
+    "title": "Làm tròn các số sau đến hàng trăm nghìn, hàng chục nghìn.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Số",
+        "Hàng trăm nghìn",
+        "Hàng chục nghìn"
+      ],
+      "rows": [
+        [
+          "783 900",
+          "___",
+          "___"
+        ],
+        [
+          "31 648 265",
+          "___",
+          "___"
+        ],
+        [
+          "705 357 000",
+          "___",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 5. Làm tròn số đến hàng trăm nghin"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 37",
+    "type": "Input Question",
+    "title": "Làm tròn số đến hàng trăm nghìn rồi viết vào chỗ chấm.",
+    "text1": "Tiền hàng của chị là 1 399 400 đồng. Tôi trả cô ___ đồng.",
+    "image1": "Hình ảnh người bán hàng và khách hàng đang giao dịch.",
+    "text2": "Mặt hàng - Giá bán (đồng) - Giá bán khi làm tròn đến hàng trăm nghìn (đồng)",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Mặt hàng",
+        "Giá bán (đồng)",
+        "Giá bán khi làm tròn đến hàng trăm nghìn (đồng)"
+      ],
+      "rows": [
+        [
+          "Hình ảnh chuột máy tính",
+          "319 000",
+          "___"
+        ],
+        [
+          "Hình ảnh máy in",
+          "4 570 000",
+          "___"
+        ],
+        [
+          "Hình ảnh máy tính xách tay",
+          "17 325 000",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 5. Làm tròn số đến hàng trăm nghin"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "Trang 38",
+    "type": "Multiple Choice",
+    "title": "Đánh dấu (v) vào bên cạnh các số đúng.\nSố nào dưới đây khi làm tròn đến hàng trăm nghìn thì được 6 400 000?",
+    "text1.MultipleChoice": [
+      "6 460 000",
+      "6 437 000",
+      "6 452 000",
+      "6 361 000"
+    ],
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 5. Làm tròn số đến hàng trăm nghin"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 39",
+    "type": "Comparison",
+    "title": "Viết chữ hoặc dấu (>; <; =) vào chỗ chấm.",
+    "key": "Cho biết dân số của một số tỉnh năm 2020",
+    "text1": "Ta có: 1 841 600 ___ 870 200.",
+    "text2": "Vậy dân số của tỉnh Bắc Giang ___ dân số của tỉnh Hà Giang.",
+    "text3": "Ta có: 1 841 600 ___ 1 870 200.",
+    "text4": "Vậy dân số của tỉnh Bắc Giang ___ dân số của tỉnh Thái Bình.",
+    "imageAll": "Hình ảnh một cậu bé đang giải thích bài toán",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 6. So sánh các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 39",
+    "type": "Comparison",
+    "title": "Viết dấu (>; <; =) vào chỗ chấm.",
+    "text1": "905 610 ___ 1 002 300",
+    "text2": "5 371 000 ___ 5368 540",
+    "text3": "40 612 074 ___ 40615 008",
+    "text4": "1 000 000 000 ___ 999 999 999",
+    "text5": "2 060 000 ___ 2000 000 + 60 000",
+    "text6": "80 030 050 ___ 8 000 000 + 300 000 + 50",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 6. So sánh các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 39",
+    "type": "Input Question",
+    "title": "Viết chữ số thích hợp vào",
+    "text1": "865 000 < ___40 000",
+    "text2": "391 ___ 05 < 391 105",
+    "text3": "32 100 813 > 32 ___ 99 999",
+    "text4": "7 ___ 0 009 = 7 000 000 + 20 000 + 9",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 6. So sánh các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 39",
+    "type": "Multiple Choice",
+    "title": "Chọn phương án đúng.",
+    "text1": "Số lớn nhất trong các số 720 306 500; 729 033 000; 729 100 000; 799 999 là:",
+    "text1.MultipleChoice": [
+      "720 306 500",
+      "729 033 000",
+      "729 100 000",
+      "799 999"
+    ],
+    "text2": "Số bé nhất trong các số 843 000 000; 348 888 888; 843 222 000; 384 000 000 là:",
+    "text2.MultipleChoice": [
+      "843 000 000",
+      "348 888 888",
+      "843 222 000",
+      "384 000 000"
+    ],
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 6. So sánh các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 39",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Sắp xếp các số 205 803 306; 9 999 999; 1 000 000 000; 205 630 380 theo thứ tự từ lớn đến bé được kết quả là: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 6. So sánh các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "Trang 39",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Số lớn nhất có 6 chữ số mà các chữ số đều chẵn là: ___",
+    "text2": "Số lẻ bé nhất có 9 chữ số là: ___",
+    "text3": "Số bé nhất có 7 chữ số mà tổng của tất cả các chữ số bằng 7 là: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 6. So sánh các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "Trang 39",
+    "type": "Input Question",
+    "title": "Viết tiếp vào chỗ chấm.",
+    "key": "Cho biết sản lượng tôm nuôi của một số tỉnh thuộc Đồng bằng sông Cửu Long năm 2020 như sau:\nLong An: 15 030 000 kg\nBến Tre: 76 640 000 kg\nTrà Vinh: 72 027 000 kg\nTiền Giang: 27 675 000 kg\n(Theo Niên giám thống kê năm 2020)",
+    "text1": "Tỉnh có sản lượng tôm nuôi cao nhất là ___",
+    "text2": "Các tỉnh có sản lượng tôm nuôi trên 72 triệu ki-lô-gam là: ___",
+    "text3": "Tên các tỉnh có sản lượng tôm nuôi theo thứ tự từ thấp đến cao là: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 6. So sánh các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "Thử sức",
+    "pageNumber": "Trang 40",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": "Dùng 9 thẻ số 9 9 0 0 6 8 1 1 5 để lập các số có 9 chữ số.",
+    "text1": "Số lớn nhất có thể lập được là: ___",
+    "text2": "Số bé nhất có thể lập được là: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 6. So sánh các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "41",
+    "type": "Comparison",
+    "title": "Viết chữ hoặc dấu (>; <; =) vào chỗ chấm.",
+    "key": "Đây là dãy số tự nhiên.",
+    "imageAll": "Hình ảnh dãy số tự nhiên và các số từ 0 đến 12",
+    "text1": "Số tự nhiên bé nhất là ___ ; không có số tự nhiên lớn nhất.",
+    "text2": "Hai số tự nhiên liên tiếp hơn kém nhau ___ đơn vị.",
+    "text3": "Số liền sau của 99 999 là: 99 999 + ___ = ___",
+    "text4": "Số liền trước của 99 999 là: 99 999 - ___ = ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 7. Làm quen với dãy số tự nhiên"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "41",
+    "type": "True False",
+    "title": "Đúng ghi Đ, sai ghi S vào ô trống",
+    "text1": "Số đầu tiên của dãy số tự nhiên là 1.",
+    "text2": "Số tự nhiên lớn nhất là 1 000 000 000.",
+    "text3": "Số liền sau của một số tự nhiên lớn hơn số liền trước của số đó đúng 2 đơn vị.",
+    "text4": "Thêm 1 vào một số tự nhiên thì ta được số liền sau của số đó.",
+    "text5": "Hai số tự nhiên lẻ liên tiếp hơn kém nhau 1 đơn vị.",
+    "text6": "Hai số tự nhiên chẵn liên tiếp hơn kém nhau 2 đơn vị.",
+    "text7": "Với hai số tự nhiên trên tia số, số gần gốc 0 hơn là số bé hơn.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 7. Làm quen với dãy số tự nhiên"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "41",
+    "type": "Input Question",
+    "title": "Viết ba số tiếp theo của mỗi dãy số sau:",
+    "text1": "3 998; 3 999; 4 000; 4 001; ___ ; ___ ; ___",
+    "text2": "0; 2; 4; 6; 8; 10; 12; 14; ___ ; ___ ; ___",
+    "text3": "1; 3; 5; 7; 9; 11; 13; 15; 17; ___ ; ___ ; ___",
+    "text4": "175; 180; 185; 190; ___ ; ___ ; ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 7. Làm quen với dãy số tự nhiên"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "41",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm để được ba số tự nhiên liên tiếp.",
+    "text1": "56; 57; ___",
+    "text2": "318; ___ ; 320",
+    "text3": "___ ; 85 000; ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 7. Làm quen với dãy số tự nhiên"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "41",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Số liền trước",
+        "Số đã cho",
+        "Số liền sau"
+      ],
+      "rows": [
+        [
+          "___",
+          "1 000",
+          "___"
+        ],
+        [
+          "___",
+          "___",
+          "6 372"
+        ],
+        [
+          "9 999 999",
+          "___",
+          "___"
+        ],
+        [
+          "___",
+          "25 063 200",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 7. Làm quen với dãy số tự nhiên"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "42",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "1 tỉ = 1 000 triệu, em viết số là 1 000 000 000.",
+    "text2": "2 tỉ = ___ triệu, em viết số là ___",
+    "text3": "32 tỉ = ___ triệu, em viết số là ___",
+    "text4": "Dân số châu Á tính đến tháng 1 năm 2023 là khoảng: bốn tỉ bảy trăm bốn mươi triệu người. Em viết số dân là: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 7. Làm quen với dãy số tự nhiên"
+  },
+  {
+    "exercise_number": "Thử sức",
+    "pageNumber": "42",
+    "type": "Input Question",
+    "title": "Viết ba số tiếp theo của dãy số sau:",
+    "text1": "1; 3; 4; 7; 11; 18; 29; ___ ; ___ ; ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 7. Làm quen với dãy số tự nhiên"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "43",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Viết số",
+        "Hàng trăm triệu",
+        "Hàng chục triệu",
+        "Hàng triệu",
+        "Hàng trăm nghìn",
+        "Hàng chục nghìn",
+        "Hàng nghìn",
+        "Hàng trăm",
+        "Hàng chục",
+        "Hàng đơn vị"
+      ],
+      "rows": [
+        [
+          "37 103 621",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___"
+        ],
+        [
+          "925 760 208",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___",
+          "___"
+        ],
+        [
+          "___",
+          "___",
+          "2",
+          "9",
+          "0",
+          "0",
+          "5",
+          "7",
+          "3"
+        ],
+        [
+          "___",
+          "6",
+          "0",
+          "3",
+          "7",
+          "5",
+          "1",
+          "8",
+          "0",
+          "9"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "43",
+    "type": "Input Question",
+    "title": "Viết vào chỗ chấm.",
+    "key": "Tìm giá trị của chữ số 6",
+    "text1": "Số: ___",
+    "text2": "162",
+    "text3": "126",
+    "text4": "16 870",
+    "text5": "860 540",
+    "text6": "65 031 003",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "43",
+    "type": "Input Question",
+    "title": "Viết vào chỗ chấm.",
+    "text1": "a. Trong số 27 035 184:",
+    "text2": "- chữ số 7 ở hàng ___, lớp ___;",
+    "text3": "- chữ số 2 ở hàng ___, lớp ___",
+    "text4": "- chữ số 3 ở hàng ___, lớp ___",
+    "text5": "- chữ số 0 ở hàng ___, lớp ___",
+    "text6": "b. Trong số 408 926 351:",
+    "text7": "- chữ số ___ ở hàng trăm triệu, lớp ___",
+    "text8": "- chữ số ___ ở hàng chục triệu, lớp ___",
+    "text9": "- chữ số ___ ở hàng nghìn, lớp ___",
+    "text10": "- chữ số ___ ở hàng trăm, lớp ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "43",
+    "type": "Comparison",
+    "title": "Viết dấu (>; <; =) thích hợp vào chỗ chấm.",
+    "text1": "2 180 509 ___ 892 753",
+    "text2": "62 877 300 ___ 62 937 700",
+    "text3": "741 060 403 ___ 741 036 999",
+    "text4": "1 000 000 ___ 999 999 + 1",
+    "text5": "30 000 000 + 8 000 + 2 ___ 30 008 003",
+    "text6": "9 000 000 + 50 000 + 30 ___ 9 500 030",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "43",
+    "type": "Open Text",
+    "title": "Viết các số sau theo thứ tự từ bé đến lớn:",
+    "text1": "12 010 820; 8 089 504; 6 909 972; 12 003 158.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "43",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": "Dùng cả bốn thẻ số 0, 8, 1, 1 em lập được các số lớn hơn 1 750 là:",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "44",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "a. 15 398; 15 399; ___; 15 401;",
+    "text2": "b. 821; 823; 825; ___; 831;",
+    "text3": "c. 4 526; 4 528; 4530; ___; 4 534;",
+    "text4": "d. 57 200000; 57 100 000; ___; 56 900 000;",
+    "text5": "e. 326 000 150; 326 000 200; 326 000 250; ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": "8",
+    "pageNumber": "44",
+    "type": "Input Question",
+    "title": "Viết tiếp vào chỗ chấm.",
+    "key": "Cho biết số lượt người từ một số quốc gia đến Việt Nam vào năm 2019 như sau:\nCanada: 159 100 lượt người\nTrung Quốc: 5 806 400 lượt người\nHàn Quốc: 4 290 800 lượt người\nNga: 646 500 lượt người\n(Theo Niên giám thống kê năm 2019)",
+    "text1": "Năm 2019, trong bốn quốc gia trên:",
+    "text2": "a. Quốc gia có số lượt người đến Việt Nam cao nhất là: ___",
+    "text3": "b. Các quốc gia có trên 4 triệu lượt người đến Việt Nam là: ___",
+    "text4": "c. Tên các quốc gia có số lượt người đến Việt Nam theo thứ tự từ thấp nhất đến cao nhất là: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": "9",
+    "pageNumber": "44",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Bác Sơn mới mua một chiếc xe ô tô hết 900 000 000 đồng. Để đảm bảo an toàn, bác Sơn trang bị thêm một số phụ kiện cho xe hết 6 000 000 đồng và mua một gói bảo hiểm hết 500 000 đồng. Hỏi bác Sơn đã trả tất cả bao nhiêu tiền cho chiếc xe ô tô mới của mình?",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "45",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": "Dự báo dân số của Việt Nam năm 2050 là 109 605 011 người. (Theo: https://danso.org/viet-nam/)",
+    "text1": "Hỏi dân số của Việt Nam vào năm 2050 là khoảng bao nhiêu triệu người?",
+    "text2": "Trả lời: ___ người.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": null,
+    "pageNumber": "45",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "a. Số lớn nhất có 7 chữ số mà tổng của tất cả các chữ số bằng 25 là: ___",
+    "text2": "b. Số bé nhất có 8 chữ số mà tổng của tất cả các chữ số bằng 21 là: ___",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": null,
+    "pageNumber": "45",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": "Em cùng các bạn dùng các thẻ chữ số từ 0 đến 9 để xếp dãy các số tự nhiên:\n0; 1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20;...",
+    "text1": "Hỏi nếu cứ xếp như vậy từ số 0 đến số 100 thì phải dùng bao nhiêu thẻ chữ số 9?",
+    "text2": "Trả lời: Phải dùng ___ thẻ chữ số 9.",
+    "chapter": "Chủ đề 3. Số có nhiều chữ số",
+    "lesson": "Bài 8. Luyện tập chung"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "46",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "imageAll": "Hình ảnh bao gạo và các bạn nhỏ với các thông tin: Bao gạo cân nặng 1 tạ, bao gạo cân nặng 10 yến, bao gạo cân nặng 100kg, 10 bao gạo như thế cân nặng 10 tạ hay 1 tấn đấy!",
+    "text1": "1 yến = ___ kg",
+    "text2": "1 tạ = ___ yến",
+    "text3": "1 tạ = ___ kg",
+    "text4": "1 tấn = ___ kg",
+    "text5": "1 tấn = ___ tạ",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 1. Yến, tạ, tấn"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "46",
+    "type": "Matching",
+    "title": "Nối mỗi con vật sau với cân nặng của nó.",
+    "imageAll": "Hình ảnh các con vật: thỏ, trâu, voi, dê và cân nặng của nó.",
+    "text1": "Nối mỗi con vật sau với cân nặng của nó.",
+    "text1.MultipleChoice": [
+      "3 yến",
+      "3 kg",
+      "5 tạ",
+      "5 tấn"
+    ],
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 1. Yến, tạ, tấn"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "46",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "2 yến = ___ kg",
+    "text2": "3 tạ = ___ kg",
+    "text3": "5 tấn = ___ kg",
+    "text4": "4 tạ = ___ yến",
+    "text5": "10 tấn = ___ tạ",
+    "text6": "20 tấn = ___ kg",
+    "text7": "30 kg = ___ yến",
+    "text8": "600 kg = ___ tạ",
+    "text9": "12 000 kg = ___ tấn",
+    "text10": "10 yến = ___ tạ",
+    "text11": "80 tạ = ___ tấn",
+    "text12": "100 tạ = ___ tấn",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 1. Yến, tạ, tấn"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "46",
+    "type": "Input Question",
+    "title": "Tính.",
+    "text1": "28 tấn + 7 tấn = ___ tấn",
+    "text2": "46 tạ - 12 tạ = ___ tạ",
+    "text3": "16 yến x 5 = ___ yến",
+    "text4": "1 200 tạ : 6 = ___ tạ",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 1. Yến, tạ, tấn"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "46",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "imageAll": "Hình ảnh cô giáo và bảng với các ví dụ: 2 yến 1 kg = 20 kg + 1 kg = 21 kg, 2 tạ 9 kg = 200 kg + 9 kg = 209 kg",
+    "text1": "3 yến 8 kg = ___ kg",
+    "text2": "4 tạ 3 kg = ___ kg",
+    "text3": "7 tấn 20 kg = ___ kg",
+    "text4": "2 tấn 6 tạ = ___ tạ",
+    "text5": "5 tạ 3 yến = ___ yến",
+    "text6": "1 tấn 30 yến = ___ yến",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 1. Yến, tạ, tấn"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "46",
+    "type": "Comparison",
+    "title": "Viết dấu (>; <; =) thích hợp vào chỗ chấm.",
+    "text1": "45 tạ ___ 5 tấn",
+    "text2": "6 tạ 3 yến ___ 630 kg",
+    "text3": "3 tấn 80 kg ___ 3 800 kg",
+    "text4": "702 tạ ___ 7 tấn 2 tạ",
+    "text5": "4 tấn ___ 12 tạ : 3",
+    "text6": "9 500 kg ___ 9 tấn 5 tạ",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 1. Yến, tạ, tấn"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "47",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "text1": "Một cửa hàng vật liệu xây dựng, buổi sáng bán được 16 tấn xi măng, buổi chiều bán được lượng xi-măng bằng một nửa của buổi sáng. Hỏi cả ngày hôm đó cửa hàng bán được bao nhiêu tấn xi-măng?",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 1. Yến, tạ, tấn"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "47",
+    "type": "Open Text",
+    "title": "Trả lời câu hỏi sau.",
+    "key": "Cho biết cân nặng của một chiếc xe ô tô theo công bố của hãng sản xuất và cân nặng một con hà mã như trong hình sau:",
+    "imageAll": "Hình ảnh xe ô tô nặng 1520 kg và hà mã nặng 2 tấn 6 tạ",
+    "text1": "Hỏi xe ô tô hay con hà mã nặng hơn và nặng hơn bao nhiêu ki-lô-gam?",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 1. Yến, tạ, tấn"
+  },
+  {
+    "exercise_number": "Thử Sức",
+    "pageNumber": "48",
+    "type": "Open Text",
+    "title": "Viết cách làm vào chỗ chấm.",
+    "imageAll": "Hình ảnh cân và bao gạo",
+    "text1": "Cô bán hàng có một bao gạo lớn và một chiếc cân đồng hồ loại 2 kg. Nam đi cùng mẹ muốn mua 1 yến gạo. Cô bán hàng đồng ý với đề nghị của mẹ Nam là cho Nam tự cân để lấy được đủ lượng gạo cần mua. Em hãy giúp Nam nêu cách cân nhé!",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 1. Yến, tạ, tấn"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "49",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Đề-xi-mét vuông là diện tích của hình vuông có cạnh dài ___",
+    "text2": "Đề-xi-mét vuông viết tắt là ___ Ta có: 1 dm² = ___ cm².",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 2. Đề-xi-mét vuông"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "49",
+    "type": "Matching",
+    "title": "Nối mỗi số đo ở bên phải với cách đọc ở bên trái.",
+    "text1": "Nối các cặp tương ứng:",
+    "text1.MultipleChoice": [
+      "Chín trăm đề-xi-mét vuông",
+      "Một trăm sáu mươi hai đề-xi-mét vuông",
+      "Ba mươi lăm đề-xi-mét vuông",
+      "Mười lăm nghìn đề-xi-mét vuông",
+      "35 dm²",
+      "900 dm²",
+      "15 000 dm²",
+      "162 dm²"
+    ],
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 2. Đề-xi-mét vuông"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "49",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "5 dm² = ___ cm²",
+    "text2": "8 dm² = ___ cm²",
+    "text3": "3 dm² 60 cm² = ___ cm²",
+    "text4": "400 cm² = ___ dm²",
+    "text5": "700 cm² = ___ dm²",
+    "text6": "2 dm² 3 cm² = ___ cm²",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 2. Đề-xi-mét vuông"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "49",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "text1": "Một viên gạch lát nền hình vuông có cạnh dài 80 cm. Hỏi diện tích của viên gạch đó là bao nhiêu đề-xi-mét vuông?",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 2. Đề-xi-mét vuông"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "50",
+    "type": "Input Question",
+    "title": "Viết tiếp vào chỗ chấm",
+    "key": "Viên gạch lát nền này có diện tích 1 m². Viên gạch này to gấp 100 lần viên đá lát sân hình vuông cạnh 1 dm.",
+    "text1": "Mét vuông là một đơn vị đo diện tích.",
+    "text2": "Mét vuông là diện tích của hình vuông có cạnh dài ___",
+    "text3": "Mét vuông viết tắt là ___ . Ta có: 1 m² = ___ dm².",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 3. Mét vuông"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "50",
+    "type": "Input Question",
+    "title": "Viết vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Đọc",
+        "Viết"
+      ],
+      "rows": [
+        [
+          "Năm mươi mét vuông",
+          "50 m²"
+        ],
+        [
+          "___",
+          "50 cm²"
+        ],
+        [
+          "Bảy mươi hai mét vuông",
+          "___"
+        ],
+        [
+          "Hai trăm đề-xi-mét vuông",
+          "___"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 3. Mét vuông"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "50",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "3 m² = ___ dm²",
+    "text2": "6 m² = ___ dm²",
+    "text3": "5 m² 16 dm² = ___ dm²",
+    "text4": "200 dm² = ___ m²",
+    "text5": "900 dm² = ___ m²",
+    "text6": "7 m² 4 dm² = ___ dm²",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 3. Mét vuông"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "50",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Một căn phòng hình chữ nhật có chiều dài 5 m, chiều rộng 4 m. Hỏi để lát kín nền cho căn phòng đó thì cần bao nhiêu viên gạch hình vuông có cạnh 1 m?",
+    "text1": "Bài giải",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 3. Mét vuông"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "51",
+    "type": "Input Question",
+    "title": "Viết vào chỗ chấm.",
+    "text1": "a. 68 mm² đọc là ___",
+    "text2": "520 mm² đọc là ___",
+    "text3": "b. Bốn trăm linh năm mi-li-mét vuông viết là ___",
+    "text4": "Một nghìn tám trăm mi-li-mét vuông viết là ___",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 4. Mili-mét vuông"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "51",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "2 cm² = ___ mm²",
+    "text2": "8 cm² = ___ mm²",
+    "text3": "6 cm² 30 mm² = ___ mm²",
+    "text4": "700 mm² = ___ cm²",
+    "text5": "400 mm² = ___ cm²",
+    "text6": "9 cm² 4 mm² = ___ mm²",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 4. Mili-mét vuông"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "51",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Để làm một chi tiết máy, đầu tiên chú Huy cắt một mảnh thép hình vuông cạnh 3 cm, sau đó chú Huy cắt ra một mảnh hình chữ nhật có chiều dài 8 mm, chiều rộng 5 mm như hình vẽ. Tính diện tích của chi tiết máy đó.",
+    "image1": "Hình vuông cạnh 3 cm và hình chữ nhật chiều dài 8 mm, chiều rộng 5 mm",
+    "text1": "Bài giải",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 4. Mili-mét vuông"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "52",
+    "type": "Input Question",
+    "title": "Viết m², dm², cm² hay mm² vào chỗ chấm.",
+    "text1": "Sàn của một phòng học rộng khoảng 62 ___",
+    "text2": "Để chống muỗi vào nhà, người ta thường sử dụng lưới bằng kim loại có mắt lưới dạng ô vuông diện tích bé hơn 2 ___",
+    "text3": "Màn hình máy vi tính loại 17 in-sơ (inch) có diện tích khoảng 10 ___",
+    "text4": "Diện tích của một chiếc nhãn vở khoảng 24 ___",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 5. Luyện tập chung"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "52",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "5 cm² = ___ mm²",
+    "text2": "6 dm² = ___ cm²",
+    "text3": "8 m² 9 dm² = ___ dm²",
+    "text4": "16 m² + 9 m² = ___ m²",
+    "text5": "81 dm² × 5 = ___ dm²",
+    "text6": "2 m² = ___ dm²",
+    "text7": "7 dm² = ___ cm²",
+    "text8": "3 dm² 24 cm² = ___ cm²",
+    "text9": "905 mm² - 215 mm² = ___ mm²",
+    "text10": "4 800 cm²: 6 = ___ cm²",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 5. Luyện tập chung"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "52",
+    "type": "Comparison",
+    "title": "Viết dấu (>; <; =) thích hợp vào chỗ chấm.",
+    "text1": "503 cm² ___ 5 dm² 3 cm²",
+    "text2": "832 dm² ___ 8 m² 23 dm²",
+    "text3": "3 m² 99 dm² ___ 4 m²",
+    "text4": "4 cm² 5 mm² ___ 80 mm² × 5",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 5. Luyện tập chung"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "52",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Một chiếc bảng hình chữ nhật dài 120 cm, rộng 80 cm.",
+    "imageAll": "Hình ảnh chiếc bảng hình chữ nhật",
+    "text1": "Hỏi diện tích của chiếc bảng đó là bao nhiêu đề-xi-mét vuông?",
+    "text2": "Diện tích của chiếc bảng đó là lớn hơn, nhỏ hơn hay bằng 1 m²?",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 5. Luyện tập chung"
+  },
+  {
+    "exercise_number": null,
+    "pageNumber": "52",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": "Mỗi thanh gỗ hình chữ nhật có chiều dài 9 dm và chiều rộng 1 dm. Để lát kín sàn của một căn phòng hình vuông cạnh 3 m",
+    "text1": "thì cần phải dùng ........... thanh gỗ như vậy.",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 5. Luyện tập chung"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "53",
+    "type": "Input Question",
+    "title": "Viết tiếp vào chỗ chấm.",
+    "key": "Giây là một đơn vị đo thời gian.",
+    "text1": "1 phút = ___ giây;",
+    "text2": "1 giờ = ___ phút.",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 6. Giây"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "53",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "imageAll": "Kim giây trên đồng hồ đi được 1 vạch, ta có 1 giây. Kim giây dịch chuyển hết 60 vạch, tức là 1 vòng trên mặt đồng hồ, ta có 1 phút.",
+    "text1": "2 phút = ___ giây",
+    "text2": "60 giây = ___ phút",
+    "text3": "5 phút = ___ giây",
+    "text4": "120 giây = ___ phút",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 6. Giây"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "53",
+    "type": "Input Question",
+    "title": "Viết giờ, phút, giây hay ngày vào chỗ chấm.",
+    "text1": "a. Buổi sáng Nam đi bộ đến trường hết khoảng 15 ___",
+    "text2": "b. Người chạy nhanh nhất thế giới chạy 100 m trong chưa tới 10 ___",
+    "text3": "c. Mỗi ngày bố làm việc ở văn phòng 8 ___",
+    "text4": "d. Mỗi tuần mẹ làm việc ở cơ quan 5 ___",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 6. Giây"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "53",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "text1": "Một vận động viên bơi lội bơi 800 m tự do với thời gian 7 phút 32 giây. Hỏi vận động viên đó đã bơi hết bao nhiêu giây ở cự li 800 m?",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 6. Giây"
+  },
+  {
+    "exercise_number": null,
+    "pageNumber": "53",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Bác sĩ nói nhịp tim của Nam là 120 nhịp trong 1 phút và có sức khoẻ bình thường.",
+    "text2": "Thời gian mỗi nhịp tim đập của Nam là khoảng..............giây.",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 6. Giây"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "54",
+    "type": "Input Question",
+    "title": "Viết tiếp vào chỗ chấm",
+    "text1": "Thế kỉ là một đơn vị đo thời gian. 1 thế kỉ = ___ năm.",
+    "text2": "Từ năm 201 đến năm ___ là thế kỉ ba (thế kỉ ___).",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 7. Thế kỉ"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "54",
+    "type": "Input Question",
+    "text3": "Từ năm 1901 đến năm ___ là thế kỉ ___ (thế kỉ XX).",
+    "text4": "Từ năm ___ đến năm 2100 là thế kỉ ___ (thế kỉ XXI).",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 7. Thế kỉ"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "54",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm",
+    "text1": "2 thế kỉ = ___ năm",
+    "text2": "5 thế kỉ = ___ năm",
+    "text3": "600 năm = ___ thế kỉ",
+    "text4": "1 000 năm = ___ thế kỉ",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 7. Thế kỉ"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "54",
+    "type": "Input Question",
+    "title": "Viết số La Mã vào chỗ chấm",
+    "text1": "Năm 40, Hai Bà Trưng phất cờ khởi nghĩa chống lại ách thống trị của nhà Hán. Năm đó thuộc thế kỉ ___",
+    "text2": "Năm 938, Ngô Quyền đánh tan quân Nam Hán trên sông Bạch Đằng. Năm đó thuộc thế kỉ ___",
+    "text3": "Năm 1428, sau khi chiến thắng quân Minh, Lê Lợi lên ngôi vua, lập ra triều Hậu Lê. Năm đó thuộc thế kỉ ___",
+    "text4": "Năm 1945, Bác Hồ đọc bản Tuyên ngôn độc lập, khai sinh ra nước Việt Nam Dân chủ Cộng hoà. Năm đó thuộc thế kỉ ___",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 7. Thế kỉ"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "54",
+    "type": "Input Question",
+    "title": "Viết vào chỗ chấm",
+    "text1": "Năm nhuận là năm mà tháng Hai có 29 ngày. Năm nhuận có ___ ngày.",
+    "text2": "Năm cuối cùng của thế kỉ XX là một năm nhuận, đó là năm ___",
+    "text3": "Năm cuối cùng của thế kỉ XXI là một năm không nhuận, đó là năm ___",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 7. Thế kỉ"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "55",
+    "type": "Multiple Choice",
+    "title": "Chọn phương án đúng.",
+    "text1": "Con gà mà mẹ mới mua về cân nặng:",
+    "text1.MultipleChoice": [
+      "3 tấn",
+      "3 tạ",
+      "3 yến",
+      "3 kg"
+    ],
+    "text2": "Mỗi bao xi-măng cân nặng 50 kg. 4 bao xi-măng như thế cân nặng:",
+    "text2.MultipleChoice": [
+      "2 tấn",
+      "2 tạ",
+      "2 yến",
+      "400 kg"
+    ],
+    "text3": "Một con voi châu Phi khi trưởng thành có thể nặng tới:",
+    "text3.MultipleChoice": [
+      "7 kg",
+      "7 yến",
+      "7 tạ",
+      "7 tấn"
+    ],
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 8. Thực hành sử dụng một số đơn vị đo đại lượng"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "55",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm (theo mẫu).",
+    "text1": "Mỗi đồng hồ sau chỉ mấy giờ?",
+    "imageAll": "Hình ảnh 3 đồng hồ, một cái chỉ 6 giờ 17 phút 5 giây, hai cái còn lại cần điền giờ, phút, giây.",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 8. Thực hành sử dụng một số đơn vị đo đại lượng"
+  },
+  {
+    "exercise_number": null,
+    "pageNumber": "55",
+    "type": "Matching",
+    "title": "Nối hai đồng hồ chỉ cùng thời gian.",
+    "imageAll": "Hình ảnh 4 đồng hồ và 4 mốc thời gian điện tử: 23:05:30, 08:30:00, 07:15:10, 17:00:50",
+    "text1": "Nối hai đồng hồ chỉ cùng thời gian:",
+    "text1.MultipleChoice": [
+      "23:05:30",
+      "08:30:00",
+      "07:15:10",
+      "17:00:50"
+    ],
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 8. Thực hành sử dụng một số đơn vị đo đại lượng"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "55",
+    "type": "Input Question",
+    "title": "Viết tiếp vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Tên",
+        "Thời gian chạy 100 m"
+      ],
+      "rows": [
+        [
+          "Nam",
+          "48 giây"
+        ],
+        [
+          "Minh",
+          "67 giây"
+        ],
+        [
+          "Thành",
+          "1 phút 12 giây"
+        ],
+        [
+          "Mai",
+          "1 phút 5 giây"
+        ]
+      ]
+    },
+    "text1": "Cho biết thời gian chạy quãng đường 100 m của bốn bạn học sinh như trong bảng dữ liệu sau:",
+    "text2": "Bạn chạy nhanh nhất là ___",
+    "text3": "Bạn chạy chậm nhất là ___",
+    "text4": "Bạn có thời gian chạy ít hơn 1 phút là ___",
+    "text5": "Các bạn chạy nhanh hơn Minh là ___",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 8. Thực hành sử dụng một số đơn vị đo đại lượng"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "56",
+    "type": "Multiple Choice",
+    "title": "Chọn câu trả lời đúng.",
+    "text1": "Em chọn một tờ giấy hoặc tấm bìa, hãy thực hành đo, gấp rồi cắt để được một mảnh hình vuông cạnh 2 dm.\nDiện tích của mảnh hình vuông đó là:",
+    "text1.MultipleChoice": [
+      "4 m²",
+      "4 cm²",
+      "4 dm²",
+      "8 dm²"
+    ],
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 8. Thực hành sử dụng một số đơn vị đo đại lượng"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "56",
+    "type": "Multiple Choice",
+    "title": "Chọn câu trả lời đúng.",
+    "text1": "Nam mua ba đồ vật có giá được ghi như sau tại một cửa hàng:\nHỏi Nam cần dùng tờ tiền nào để vừa đủ tiền trả cho người bán hàng?",
+    "imageAll": "Hình ảnh ba đồ vật: quả bóng giá 140 nghìn đồng, compa giá 15 nghìn đồng, bàn cờ vua giá 45 nghìn đồng. Các lựa chọn là các tờ tiền mệnh giá khác nhau.",
+    "text1.MultipleChoice": [
+      "Tờ 50.000",
+      "Tờ 100.000",
+      "Tờ 200.000",
+      "Tờ 500.000"
+    ],
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 8. Thực hành sử dụng một số đơn vị đo đại lượng"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "56",
+    "type": "True False",
+    "title": "Quan sát các cân sau, đúng ghi Đ, sai ghi S vào ô trống.",
+    "imageAll": "Hình ảnh 3 cân, mỗi cân có một bao gạo. Bao gạo ST25, bao gạo nếp, bao gạo ST24.",
+    "text1": "Bao gạo ST25 cân nặng 1 tạ.",
+    "text2": "Bao gạo nếp cân nặng 35 tạ.",
+    "text3": "Bao gạo ST24 cân nặng 65 kg.",
+    "text4": "Tổng cân nặng của cả ba bao gạo là 2 tạ.",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 8. Thực hành sử dụng một số đơn vị đo đại lượng"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "56",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "Thực hành đo cân nặng của em bằng loại cân phù hợp để biết mình nặng khoảng bao nhiêu ki-lô-gam.",
+    "text2": "Kết quả: Cân nặng của em là: ___ kg; hay: ___ yến và ___ kg.",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 8. Thực hành sử dụng một số đơn vị đo đại lượng"
+  },
+  {
+    "exercise_number": "8",
+    "pageNumber": "57",
+    "type": "Input Question",
+    "title": "Viết chữ hoặc số vào chỗ chấm.",
+    "text1": "Thực hành đo chiều dài, chiều rộng của một căn phòng (ví dụ như phòng học lớp em, phòng khách, phòng ngủ) xem mỗi kích thước đó dài khoảng bao nhiêu mét. Tính diện tích của căn phòng em đo.",
+    "text2": "Kết quả: Căn phòng em đo:",
+    "text3": "Chiều dài ___ m; chiều rộng ___ m. Diện tích: ___ m².",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 8. Thực hành sử dụng một số đơn vị đo đại lượng"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "57",
+    "type": "Input Question",
+    "title": "Viết số hoặc số La Mã thích hợp vào chỗ chấm.",
+    "text1": "Năm nay là năm ___ thuộc thế kỉ ___",
+    "text2": "Tính từ thời điểm năm nay thì:",
+    "text3": "100 năm trước là năm ___ thuộc thế kỉ ___",
+    "text4": "300 năm trước là năm ___ thuộc thế kỉ ___",
+    "text5": "100 năm sau là năm ___ thuộc thế kỉ ___",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 8. Thực hành sử dụng một số đơn vị đo đại lượng"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 58",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "6 yến 7 kg = ___ kg",
+    "text2": "5 tạ 2 yến = ___ yến",
+    "text3": "2 m² = ___ dm²",
+    "text4": "3 dm² = ___ cm²",
+    "text5": "7 phút = ___ giây",
+    "text6": "7 thế kỉ = ___ năm",
+    "text7": "3 tạ 26 kg = ___ kg",
+    "text8": "4 tấn 3 tạ 12 kg = ___ kg",
+    "text9": "800 mm² = ___ cm²",
+    "text10": "900 cm² = ___ dm²",
+    "text11": "180 giây = ___ phút",
+    "text12": "300 năm = ___ thế kỉ",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 9. Luyện tập chung"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 58",
+    "type": "True False",
+    "title": "Đúng ghi Đ, sai ghi S vào",
+    "text1": "5 phút 26 giây = 526 giây.",
+    "text2": "5 m² 26 dm² = 526 dm².",
+    "text3": "2 tấn 95 kg = 2 095 kg.",
+    "text4": "4 tạ 3 yến = 430 kg.",
+    "text5": "1 thế kỉ = 60 năm.",
+    "text6": "3 giờ = 180 phút.",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 9. Luyện tập chung"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 58",
+    "type": "Comparison",
+    "title": "Viết dấu (>; <; =) thích hợp vào chỗ chấm.",
+    "text1": "10 cm² ___ 1 dm²",
+    "text2": "5 dm² 8 cm² ___ 58 cm²",
+    "text3": "1 giờ 25 phút ___ 120 phút",
+    "text4": "904 năm ___ 9 thế kỉ",
+    "text5": "2 m² 13 dm² ___ 3 m²",
+    "text6": "5 dm² 8 cm² ___ 508 cm²",
+    "text7": "4 phút 20 giây ___ 250 giây",
+    "text8": "3 thế kỉ 46 năm ___ 346 năm",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 9. Luyện tập chung"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 58",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Một chiếc xe tải sau khi đã được xếp hàng hoá lên cân nặng 9 tấn. Biết rằng cân nặng của xe lúc trước khi xếp hàng hoá là 2 900 kg.",
+    "text1": "Hỏi khối lượng hàng trên xe là bao nhiêu ki-lô-gam?",
+    "text2": "Khối lượng hàng trên xe là nặng hơn hay nhẹ hơn 6 tấn?",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 9. Luyện tập chung"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 58",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Bác Hà cần sơn mảng chân của một bức tường có dạng hình chữ nhật với các kích thước như trên hình.",
+    "imageAll": "Hình chữ nhật với chiều dài 5 m 6 dm và chiều rộng 9 dm",
+    "text1": "Diện tích của mảng tường cần sơn bằng bao nhiêu đề-xi-mét vuông?",
+    "text2": "Diện tích của mảng tường cần sơn lớn hơn hay bé hơn so với 5 m²?",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 9. Luyện tập chung"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "Trang 59",
+    "type": "Input Question",
+    "title": "Viết số hoặc số La Mã thích hợp vào chỗ chấm.",
+    "text1": "Đại lễ kỉ niệm 1000 năm Thăng Long – Hà Nội được tổ chức vào năm 2010, năm đó thuộc thế kỉ ___",
+    "text2": "Đại lễ nhằm kỉ niệm tròn 1000 năm kể từ khi vua Lý Thái Tổ dời đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long, nay là Hà Nội. Vua Lý Thái Tổ dời đô từ Hoa Lư về Thăng Long năm ___, năm đó thuộc thế kỉ ___",
+    "text3": "Dịp kỉ niệm 990 năm Thăng Long – Hà Nội trước đó đã được tổ chức vào năm ___, năm đó thuộc thế kỉ ___",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 9. Luyện tập chung"
+  },
+  {
+    "exercise_number": "Thử sức",
+    "pageNumber": "Trang 59",
+    "type": "Open Text",
+    "title": "Viết vào chỗ chấm.",
+    "key": "Khối lượng hàng hoá mỗi xe đang chở được ghi ở dưới mỗi xe:",
+    "imageAll": "Hình ảnh 4 xe tải A, B, C, D với khối lượng lần lượt là 7 tấn, 600 yến, 7 125 kg, 5 tấn 2 tạ",
+    "text1": "Tên của các xe sắp xếp theo thứ tự có khối lượng hàng hoá vận chuyển từ nhẹ đến nặng là: ___ ; ___ ; ___ ; ___",
+    "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+    "lesson": "Bài 9. Luyện tập chung"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 60",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": "Ngày thứ nhất nhà máy sản xuất được 234 515 sản phẩm. Ngày thứ hai nhà máy sản xuất được 225 434 sản phẩm. Ngày thứ ba nhà máy sản xuất được 282 736 sản phẩm.",
+    "text1": "a. Ngày thứ nhất và ngày thứ hai, nhà máy sản xuất được bao nhiêu sản phẩm? Đặt tính:\n234 515 + 225 434 = ___",
+    "image1": "Phép cộng 234 515 + 225 434 dạng cột với ô trống ở dưới để điền kết quả",
+    "text2": "b. Ngày thứ hai và ngày thứ ba, nhà máy sản xuất được bao nhiêu sản phẩm? Đặt tính:\n225 434 + 282 736 = ___",
+    "image2": "Phép cộng 225 434 + 282 736 dạng cột với ô trống ở dưới để điền kết quả",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 1. Phép cộng các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 60",
+    "type": "columnar calculation",
+    "title": "Đặt tính rồi tính.",
+    "text1": "a. 15 137 + 3 243",
+    "text2": "b. 249 730 + 350 126",
+    "text3": "c. 578 924 + 260 154",
+    "imageAll": "3 phép tính cộng được viết sẵn hàng dọc",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 1. Phép cộng các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 60",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Trong quý 1, cửa hàng bán xăng bán được 122 345 lít xăng. Trong quý 2, cửa hàng bán được nhiều hơn quý 1 là 6 915 lít xăng. Hỏi quý 2 cửa hàng bán được bao nhiêu lít xăng?",
+    "text1": "Bài giải",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 1. Phép cộng các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 60",
+    "type": "Input Question",
+    "title": "Tìm chữ số thích hợp điền vào ___.",
+    "text1": "87 ___ 2___2 + 24___52 = 9___868___",
+    "image1": "phép tính cộng hàng dọc với các ô trống",
+    "text2": "3___745 + 52___37 = 4___163",
+    "image2": "phép tính cộng hàng dọc với các ô trống",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 1. Phép cộng các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 61",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "a. 360 200, 360 400, 360 600, ___, 361 000",
+    "text2": "b. 475 120, 475 240, 275 360, 275 480, ___",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 1. Phép cộng các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "Trang 61",
+    "type": "True False",
+    "title": "Đúng ghi Đ, sai ghi S vào ___",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Quận",
+        "Số dân"
+      ],
+      "rows": [
+        [
+          "Quận A",
+          "457 236 người"
+        ],
+        [
+          "Quận B",
+          "324 197 người"
+        ],
+        [
+          "Quận C",
+          "128 815 người"
+        ],
+        [
+          "Quận D",
+          "207 396 người"
+        ]
+      ]
+    },
+    "text1": "a. Tổng số dân của quận A và quận B là 781 433 người.",
+    "text2": "b. Tổng số dân của quận C và quận D ít hơn 300 000 người.",
+    "text3": "c. Tổng số dân của quận B và C ít hơn số dân quận A.",
+    "text4": "d. Tổng số dân quận C và D nhiều hơn số dân quận B.",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 1. Phép cộng các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "Trang 61",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Cô giáo viết lên bảng kí hiệu # và quy định như sau:\n1 # 1 = 1\n1 # 2 = 1 + 11\n1 # 3 = 1 + 11 + 111 ...\n2 # 1 = 2\n2 # 2 = 2 + 22\n2 # 3 = 2 + 22 + 222 ...\n3 # 1 = 3\n3 # 2 = 3 + 33\n3 # 3 = 3 + 33 + 333 ...",
+    "text1": "Theo quy luật cô giáo đã viết, đố em tính được giá trị của 4 # 4.",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 1. Phép cộng các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 62",
+    "type": "Open Text",
+    "title": "Giải các bài toán sau:",
+    "text1": "Gia Rai là một dân tộc thiểu số của Việt Nam. Theo thống kê năm 2019, dân tộc Gia Rai có 513 930 người, trong đó có 302 400 người biết đọc và viết tiếng phổ thông. Hỏi có bao nhiêu người Gia Rai không biết đọc và viết tiếng phổ thông?",
+    "image1": "Phép trừ 513 930 - 302 400 đặt dọc",
+    "text2": "Dân số năm 2019 của người dân tộc Dao là 894 154 người. Hỏi số người dân tộc Dao nhiều hơn số người dân tộc Gia Rai là bao nhiêu người?",
+    "image2": "Phép trừ 894 154 - 513 930 đặt dọc",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 2. Phép trừ các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 62",
+    "type": "columnar calculation",
+    "title": "Đặt tính rồi tính.",
+    "text1": "53 672 - 9 323",
+    "text2": "697 184 - 256 052",
+    "text3": "854 576 - 472 946",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 2. Phép trừ các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 62",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "text1": "Sản lượng vải thiều Bắc Giang năm 2022 đạt 180 420 tấn, trong đó sản lượng tiêu thụ trong nước đạt 108 200 tấn, còn lại là xuất khẩu. Hỏi sản lượng vải thiều xuất khẩu là bao nhiêu tấn?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 2. Phép trừ các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 62",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Số bị trừ",
+        "Số trừ",
+        "Hiệu"
+      ],
+      "rows": [
+        [
+          "736 382",
+          "32 151",
+          "___"
+        ],
+        [
+          "628 782",
+          "128 782",
+          "___"
+        ],
+        [
+          "638 283",
+          "___",
+          "174 344"
+        ],
+        [
+          "345 600",
+          "___",
+          "153 700"
+        ],
+        [
+          "___",
+          "452 000",
+          "634 000"
+        ]
+      ]
+    },
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 2. Phép trừ các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 63",
+    "type": "Input Question",
+    "title": "Tìm chữ số thích hợp điền vào",
+    "imageAll": "Các phép trừ có các ô trống cần điền số",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 2. Phép trừ các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "Trang 63",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "text1": "Mẹ mua một gói bánh giá 226 000 đồng và một gói kẹo giá 168 000 đồng. Mẹ đưa cho cô bán hàng tờ 500 000 đồng. Hỏi cô bán hàng trả lại mẹ bao nhiêu tiền?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 2. Phép trừ các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "Trang 63",
+    "type": "Open Text",
+    "title": "Đố",
+    "text1": "Mỗi chữ cái P, Q, R, S, T biểu diễn cho một chữ số, tính tổng P + Q + R + S + T.",
+    "imageAll": "Phép trừ 8Q3ST - P3R96 = 22222",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 2. Phép trừ các số có nhiều chữ số"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "64",
+    "type": "Open Text",
+    "title": "Viết câu trả lời vào chỗ chấm.",
+    "text1": "Tính giá trị biểu thức x + y với x = 15 và y = 30.",
+    "text2": "Tính giá trị biểu thức y + x với x = 15 và y = 30.",
+    "text3": "So sánh hai giá trị x + y và y + x.",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 3. Tính chất giao hoán của phép cộng"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "64",
+    "type": "Input Question",
+    "title": "Viết số vào chỗ chấm.",
+    "text1": "5 034 + 4 568 = 9 602",
+    "text2": "4 568 +5 034 = ___",
+    "text3": "135 000 + 356 000 = 491 000",
+    "text4": "356 000 + 135 000 = ___",
+    "text5": "247 539 + 450 729 = 698 268",
+    "text6": "450 729 + 247 539 = ___",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 3. Tính chất giao hoán của phép cộng"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "64",
+    "type": "Open Text",
+    "title": "Tính bằng cách thuận tiện.",
+    "text1": "20 + 115 + 80",
+    "text2": "60 + 562 + 40",
+    "text3": "245 + 386 + 755",
+    "text4": "629 + 785 + 371",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 3. Tính chất giao hoán của phép cộng"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "64",
+    "type": "Multiple Choice",
+    "title": "Chọn phương án đúng.",
+    "text1": "Biết 234 768 + 1 876 = 236 644, tính tổng 1 876 + 234 768.",
+    "text1.MultipleChoice": [
+      "136 644",
+      "236 6445",
+      "235 644",
+      "236 644"
+    ],
+    "text2": "Biết m + n = 10, tìm giá trị của n + m.",
+    "text2.MultipleChoice": [
+      "0",
+      "1",
+      "5",
+      "10"
+    ],
+    "text3": "Biết 456 + 1 709 + 227 = 2 392, tìm giá trị của 456 + 227 + 1 709.",
+    "text3.MultipleChoice": [
+      "1 392",
+      "2 392",
+      "2 372",
+      "2 392"
+    ],
+    "text4": "Biết n + m + p = 15, tìm giá trị của n + p + m.",
+    "text4.MultipleChoice": [
+      "15",
+      "3",
+      "5",
+      "10"
+    ],
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 3. Tính chất giao hoán của phép cộng"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "65",
+    "type": "Input Question",
+    "title": "Viết câu trả lời vào chỗ chấm.",
+    "text1": "Tính giá trị biểu thức (m + n) + p với m = 3, n = 5, p = 7.",
+    "text2": "Tính giá trị biểu thức m + (n + p) với m = 3, n= 5, p = 7.",
+    "text3": "So sánh hai giá trị (m + n) + p và m + (n + p).",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 4. Tính chất kết hợp của phép cộng"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "65",
+    "type": "Open Text",
+    "title": "Tính bằng cách thuận tiện.",
+    "text1": "27 + 115 + 85",
+    "text2": "35 + 784 + 16",
+    "text3": "2 + 98 + 724",
+    "text4": "287 + 130 + 70 + 13",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 4. Tính chất kết hợp của phép cộng"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "65",
+    "type": "Open Text",
+    "title": "Tính giá trị của biểu thức.",
+    "text1": "(r + p) + q với r = 2 023, p = 189, q = 811.",
+    "text2": "k + (h + g) với k = 6 297, h = 703, g = 1999.",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 4. Tính chất kết hợp của phép cộng"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "65",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Một cửa hàng ngày thứ nhất bán được 2 452 kg gạo, ngày thứ hai bán được 2 185 kg gạo, ngày thứ ba bán được 2 548 kg gạo. Hỏi trong ba ngày cửa hàng đó đã bán được tất cả bao nhiêu ki-lô-gam gạo?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 4. Tính chất kết hợp của phép cộng"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "65",
+    "type": "Input Question",
+    "title": "Viết biểu thức phù hợp với mỗi sơ đồ.",
+    "imageAll": "Hình ảnh sơ đồ đoạn thẳng với các biến c, d, e và dấu hỏi chấm trên đầu.",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 4. Tính chất kết hợp của phép cộng"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "65",
+    "type": "Input Question",
+    "title": "Điền số vào ô trống",
+    "text1": "378 + ___ = 627 + 378",
+    "text2": "3 756 + 8 239 = ___ + 3 756",
+    "text3": "m + n + ___ = m + (n + 15)",
+    "text4": "19+ d +81 = (___ + 81) + d",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 4. Tính chất kết hợp của phép cộng"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "65",
+    "type": "Open Text",
+    "title": "Tính bằng cách thuận tiện.",
+    "text1": "52 726 + 14 391 + 17 274 + 65 609",
+    "text2": "14 276 + 62 357 +45 724 + 27 643",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 4. Tính chất kết hợp của phép cộng"
+  },
+  {
+    "exercise_number": "8",
+    "pageNumber": "65",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Bể nước thứ nhất chứa 1 834 l nước. Bể nước thứ hai chứa 2 448 l nước. Bể nước thứ ba chứa 1 522 l nước. Hỏi cả ba bể nước chứa bao nhiêu lít nước?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 4. Tính chất kết hợp của phép cộng"
+  },
+  {
+    "exercise_number": null,
+    "pageNumber": "66",
+    "type": "Open Text",
+    "title": "Tính bằng cách thuận tiện.",
+    "text1": "100+ 101+ 102 + 103 + ... + 109 + 110",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 4. Tính chất kết hợp của phép cộng"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "67",
+    "type": "Input Question",
+    "title": "Điền câu trả lời vào.",
+    "key": "Tìm hai số biết hai số đó có tổng bằng 84 và hiệu bằng 12. ",
+    "imageAll": "Hình vẽ sơ đồ đoạn thẳng biểu diễn số lớn, số bé và hiệu của chúng là 12, tổng là 84",
+    "text1": "Số lớn: ?",
+    "text2": "Số bé: ?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 5. Tìm hai số biết tổng và hiệu của hai số đó"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "67",
+    "type": "Open Text",
+    "title": "Tóm tắt và giải bài toán sau:",
+    "key": "Trong túi có 36 chiếc kẹo gồm kẹo dẻo và kẹo cứng. Biết số kẹo dẻo nhiều hơn số kẹo cứng 10 chiếc.",
+    "text1": "Tìm số kẹo mỗi loại.",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 5. Tìm hai số biết tổng và hiệu của hai số đó"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "67",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Lớp 4A có 35 học sinh, trong đó số học sinh nữ ít hơn số học sinh nam là 3 bạn.",
+    "text1": "Hỏi lớp 4A có bao nhiêu học sinh nữ, bao nhiêu học sinh nam?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 5. Tìm hai số biết tổng và hiệu của hai số đó"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "68",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Bố hơn con 32 tuổi. Biết 4 năm nữa, tổng số tuổi của hai bố con là 64 tuổi.",
+    "text1": "Tính tuổi của mỗi người hiện nay.",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 5. Tìm hai số biết tổng và hiệu của hai số đó"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "68",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Một hình chữ nhật có chu vi là 50 cm, chiều dài hơn chiều rộng 5 cm.",
+    "text1": "Tìm chiều dài, chiều rộng của hình chữ nhật đó.",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 5. Tìm hai số biết tổng và hiệu của hai số đó"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "68",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "text1": "Hai số lẻ liên tiếp có tổng là 56. Tìm hai số lẻ liên tiếp đó.",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 5. Tìm hai số biết tổng và hiệu của hai số đó"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "69",
+    "type": "Open Text",
+    "title": "Giải bài toán sau:",
+    "key": "Hai can chứa tất cả 39 lít dầu. Nếu thêm vào can thứ nhất 2 lít và bớt ở can thứ hai đi 1 lít thì số lít dầu ở hai can bằng nhau.",
+    "text1": "Tìm số lít dầu ban đầu ở mỗi can?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 5. Tìm hai số biết tổng và hiệu của hai số đó"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 70",
+    "type": "columnar calculation",
+    "title": "Đặt tính rồi tính",
+    "text1": "27 346 + 68 129",
+    "text2": "67 184 - 54 723",
+    "text3": "238 815 + 240 375",
+    "text4": "2 015 287 - 806 102",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 70",
+    "type": "Open Text",
+    "title": "Tính giá trị biểu thức",
+    "text1": "14 237 - 5 237 + 40 000",
+    "text2": "1 090 000 + 10 000 + 500 000",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 70",
+    "type": "Open Text",
+    "title": "Giải bài toán sau",
+    "key": {
+      "type": "table",
+      "headers": [
+        "Ti vi",
+        "Tủ lạnh",
+        "Nồi cơm điện",
+        "Máy xay sinh tố"
+      ],
+      "rows": [
+        [
+          "5 550 000 đồng",
+          "4 765 000 đồng",
+          "999 000 đồng",
+          "699 000 đồng"
+        ]
+      ]
+    },
+    "text1": "Ti vi đắt hơn tủ lạnh bao nhiêu tiền?",
+    "text2": "Máy xay sinh tố rẻ hơn nồi cơm điện bao nhiêu tiền?",
+    "text3": "Mẹ mua 1 máy xay sinh tố và 1 chiếc nồi cơm điện. Mẹ phải trả bao nhiều tiền?",
+    "text4": "Bố có 10 000 000 và muốn mua 1 chiếc ti vi và 1 chiếc tủ lạnh. Hỏi bố có đủ tiền mua không? Vì sao?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 70",
+    "type": "Open Text",
+    "title": "Tính bằng cách thuận tiện",
+    "text1": "3 527 + 1 115 + 885",
+    "text2": "8 125 + 1 496 + 875",
+    "text3": "2 346 + 2 678 + 1 654 + 3 322",
+    "text4": "4 678 + 23 124 + 56 876 - 678",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 70",
+    "type": "Open Text",
+    "title": "Tính giá trị biểu thức",
+    "text1": "(r + s) + q biết r = 18 071, s = 782, q = 329",
+    "text2": "x + 415 - y + 585 biết x = 6 143, y = 5 143",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "6",
+    "pageNumber": "Trang 70",
+    "type": "Open Text",
+    "title": "Giải bài toán sau",
+    "text1": "Một quỹ Nhân ái, ngày thứ nhất nhận được 36 430 000 đồng, ngày thứ hai nhận được 52 320 000 đồng, ngày thứ ba nhận được 61 170 000 đồng. Hỏi cả ba ngày quỹ Nhân ái nhận được bao nhiêu tiền?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "Đố",
+    "pageNumber": "Trang 71",
+    "type": "Open Text",
+    "title": "Đố",
+    "text1": "Có nhiều nhất bao nhiêu số tự nhiên liên tiếp sao cho khi cộng lại được tổng là 45?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "7",
+    "pageNumber": "Trang 71",
+    "type": "Open Text",
+    "title": "Giải bài toán sau",
+    "text1": "Trên giá có tất cả 57 quyển truyện, trong đó số quyển truyện tranh nhiều hơn số quyển truyện ngắn là 15 quyển. Hỏi có bao nhiêu quyển truyện mỗi loại?",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "8",
+    "pageNumber": "Trang 72",
+    "type": "Open Text",
+    "title": "Lập đề toán dựa vào sơ đồ sau rồi giải bài toán đó.",
+    "imageAll": "Sơ đồ số lớn, số bé, hiệu 10, tổng 70",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "9",
+    "pageNumber": "Trang 72",
+    "type": "Open Text",
+    "title": "Tìm hai số lẻ có tổng bằng 52, biết rằng ở giữa chúng còn có 4 số lẻ.",
+    "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+    "lesson": "Bài 6. Luyện tập chung"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "73",
+    "type": "Input Question",
+    "title": "Viết chữ hoặc số thích hợp vào chỗ chấm",
+    "imageAll": "Hình ảnh phố Hàng Trống, Hàng Gai và hình vuông ABCD, đường thẳng OM và ON",
+    "text1": "Kéo dài hai cạnh BC và DC của hình chữ nhật ABCD ta được hai đường thẳng ___ với nhau.",
+    "text2": "Hai đường thẳng OM và ON ___ với nhau.",
+    "text3": "Có ___ góc vuông có chung đỉnh O.",
+    "text4": "Ta sử dụng ___ để kiểm tra hoặc vẽ hai đường thẳng vuông góc.",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 1. Hai đường thẳng vuông góc"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "73",
+    "type": "True False",
+    "title": "Dùng ê ke để kiểm tra rồi đánh dấu (x) vào ô trống dưới hai đường thẳng vuông góc với nhau.",
+    "imageAll": "3 cặp đường thẳng giao nhau, dưới mỗi cặp có 1 ô trống",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 1. Hai đường thẳng vuông góc"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "73",
+    "type": "Input Question",
+    "title": "Dùng ê ke kiểm tra và cho biết các cặp cạnh nào vuông góc với nhau.",
+    "imageAll": "Hình vẽ tứ giác ABCD",
+    "text1": "Cạnh ___ vuông góc với cạnh ___",
+    "text2": "Cạnh ___ vuông góc với cạnh ___",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 1. Hai đường thẳng vuông góc"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "74",
+    "type": "Open Text",
+    "title": "Nêu tên các cặp đoạn thẳng vuông góc với nhau có trong hình sau:",
+    "imageAll": "Hình vuông ABCD có hai đường chéo AC và BD cắt nhau tại tâm",
+    "text1": "Các cặp đoạn thẳng vuông góc với nhau là:",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 1. Hai đường thẳng vuông góc"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "74",
+    "type": "Interactive Image",
+    "title": "Em hãy quan sát bức tranh sau và tô màu giống nhau vào các đường thẳng vuông góc với nhau.",
+    "imageAll": "Bức tranh vẽ một ngôi nhà với nhiều đường thẳng",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 1. Hai đường thẳng vuông góc"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "75",
+    "type": "Open Text",
+    "title": "Đọc các bước cần thực hiện để vẽ đường thẳng vuông góc. Cho điểm M và đường thẳng AB. Vẽ đường thẳng đi qua điểm M và vuông góc với đường thẳng AB.",
+    "imageAll": "Hình ảnh các bước vẽ đường thẳng vuông góc từ điểm M đến đường thẳng AB, bao gồm các bước sử dụng thước eke.",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 2. Thực hành vẽ hai đường thẳng vuông góc"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "75",
+    "type": "Open Text",
+    "title": "Vẽ đường thẳng đi qua điểm I và vuông góc với đường thẳng AB trong các trường hợp sau.",
+    "text1": "a. Vẽ đường thẳng đi qua điểm M và vuông góc với đường thẳng CD.",
+    "text2": "b. Vẽ đường thẳng đi qua điểm O và vuông góc với đường thẳng MN.",
+    "imageAll": "Hình ảnh các điểm I, M, O và các đường thẳng AB, CD, MN để vẽ đường thẳng vuông góc.",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 2. Thực hành vẽ hai đường thẳng vuông góc"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "75",
+    "type": "Open Text",
+    "title": "Vẽ đường thẳng đi qua điểm A và vuông góc với cạnh BC.",
+    "imageAll": "Hình ảnh tam giác ABC, yêu cầu vẽ đường thẳng đi qua A và vuông góc BC.",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 2. Thực hành vẽ hai đường thẳng vuông góc"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "75",
+    "type": "Open Text",
+    "title": "Vẽ hình tam giác ABC có góc A là góc vuông và AB = 6 cm, AC = 4 cm.",
+    "imageAll": "Lưới ô vuông để vẽ hình tam giác ABC vuông tại A với kích thước cho trước.",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 2. Thực hành vẽ hai đường thẳng vuông góc"
+  },
+  {
+    "exercise_number": null,
+    "pageNumber": "76",
+    "type": "Open Text",
+    "title": "Em hãy vẽ một bức tranh trong đó có hình ảnh hai đường thẳng vuông góc.",
+    "imageAll": "Khung vẽ để học sinh vẽ bức tranh có hai đường thẳng vuông góc.",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 2. Thực hành vẽ hai đường thẳng vuông góc"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "Trang 77",
+    "type": "Input Question",
+    "title": "Viết từ cắt nhau, song song, đường thẳng vào chỗ chấm.",
+    "text1": "Kéo dài hai cạnh AB và CD của hình chữ nhật ABCD ta được hai ___ song song với nhau.",
+    "text2": "AB và CD là hai đường thẳng ___ với nhau.",
+    "text3": "Hai đường thẳng song song với nhau không bao giờ ___.",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 3. Hai đường thẳng song song"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "Trang 77",
+    "type": "Multiple Choice",
+    "title": "Khoanh vào chữ cái đặt dưới hai đường thẳng song song.",
+    "imageAll": "Bốn cặp đường thẳng a, b, c, d trên nền lưới ô vuông",
+    "text1.MultipleChoice": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 3. Hai đường thẳng song song"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "Trang 77",
+    "type": "Input Question",
+    "title": "Viết vào chỗ chấm.",
+    "imageAll": "Hình vẽ các đoạn thẳng A, B, C, D, E trên nền lưới ô vuông",
+    "text1": "Đoạn thẳng DC song song với đoạn thẳng ___",
+    "text2": "Đoạn thẳng AD song song với đoạn thẳng ___",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 3. Hai đường thẳng song song"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "Trang 77",
+    "type": "Input Question",
+    "title": "Các hình tứ giác ABCD, AMND và MBCN đều là hình chữ nhật.",
+    "imageAll": "Hình vẽ các đoạn thẳng A, B, C, D, M, N trên nền lưới ô vuông",
+    "text1": "Các cặp cạnh song song có trong hình trên là: ___",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 3. Hai đường thẳng song song"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "Trang 78",
+    "type": "Open Text",
+    "title": "Em hãy dùng que tính xếp thành các chữ số.",
+    "imageAll": "Hình ảnh các chữ số từ 0 đến 9 được tạo thành từ các que tính",
+    "text1": "Các chữ số có các que tính được xếp song song là: ___",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 3. Hai đường thẳng song song"
+  },
+  {
+    "exercise_number": "1",
+    "pageNumber": "79",
+    "type": "Open Text",
+    "title": "Đọc các bước cần thực hiện để vẽ đường thẳng song song.",
+    "key": "Cho điểm M và đường thẳng AB. Vẽ đường thẳng đi qua điểm M và song song với đường thẳng AB.",
+    "imageAll": "Hình ảnh minh họa các bước vẽ đường thẳng MN đi qua điểm M và vuông góc với đường thẳng AB và vẽ đường thẳng MP vuông góc với đường thẳng MN",
+    "text1": "a.Đọc các bước cần thực hiện để vẽ đường thẳng song song: Bước 1: Vẽ đường thẳng MN đi qua điểm M và vuông góc với đường thẳng AB. Bước 2: Vẽ đường thẳng MP vuông góc với đường thẳng MN.",
+    "text2": "b. Vẽ đường thẳng đi qua điểm M và song song với đường thẳng AB.",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 4. Thực hành vẽ hai đường thẳng song song"
+  },
+  {
+    "exercise_number": "2",
+    "pageNumber": "79",
+    "type": "Open Text",
+    "title": "Vẽ đường thẳng đi qua điểm I và song song với đường thẳng AB trong các trường hợp sau:",
+    "imageAll": "Hình ảnh minh họa 2 trường hợp điểm I và đường thẳng AB",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 4. Thực hành vẽ hai đường thẳng song song"
+  },
+  {
+    "exercise_number": "3",
+    "pageNumber": "79",
+    "type": "Open Text",
+    "title": "Tam giác ABC có góc đỉnh A là góc vuông. Em hãy vẽ đường thẳng đi qua điểm B và song song với cạnh AC.",
+    "imageAll": "Hình ảnh tam giác ABC vuông tại A",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 4. Thực hành vẽ hai đường thẳng song song"
+  },
+  {
+    "exercise_number": "4",
+    "pageNumber": "79",
+    "type": "Open Text",
+    "title": "Hình tứ giác ABCD có góc A và góc D là góc vuông. Em hãy vẽ đoạn thẳng BE để được hình chữ nhật ABED.",
+    "imageAll": "Hình ảnh tứ giác ABCD có góc A và góc D là góc vuông",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 4. Thực hành vẽ hai đường thẳng song song"
+  },
+  {
+    "exercise_number": "5",
+    "pageNumber": "79",
+    "type": "Open Text",
+    "title": "Vẽ hình chữ nhật ABCD biết AB = 8 cm, độ dài cạnh BC bằng một nửa độ dài cạnh AB.",
+    "imageAll": "Hình ảnh lưới ô vuông",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 4. Thực hành vẽ hai đường thẳng song song"
+  },
+  {
+    "exercise_number": null,
+    "pageNumber": "80",
+    "type": "Open Text",
+    "title": "Em hãy vẽ một bức tranh trong đó có hình ảnh hai đường thẳng song song.",
+    "chapter": "Chủ đề 6. Đường thẳng vuông góc. Đường thẳng song song",
+    "lesson": "Bài 4. Thực hành vẽ hai đường thẳng song song"
+  }
+]
