@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  quiz-generator-backend:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+    volumes:
+      # Mount data directory để persist documents
+      - ./data:/app/data
+      # Mount .env file nếu có
+      - ./.env:/app/.env
+    restart: unless-stopped
+    container_name: quiz-generator-backend
+    
+    # Healthcheck để kiểm tra service có hoạt động không
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
